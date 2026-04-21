@@ -1,0 +1,15 @@
+INSERT INTO catnes_population (country, region, province, city_municipality, population)
+VALUES
+('Philippines', 'BICOL REGION (REGION V)', 'Catanduanes', 'Virac', 75135),
+('Philippines', 'BICOL REGION (REGION V)', 'Catanduanes', 'San Andres', 37157),
+('Philippines', 'BICOL REGION (REGION V)', 'Catanduanes', 'Caramoran', 30124),
+('Philippines', 'BICOL REGION (REGION V)', 'Catanduanes', 'Viga', 21364),
+('Philippines', 'BICOL REGION (REGION V)', 'Catanduanes', 'Bato', 21325),
+('Philippines', 'BICOL REGION (REGION V)', 'Catanduanes', 'Pandan', 20796),
+('Philippines', 'BICOL REGION (REGION V)', 'Catanduanes', 'San Miguel', 14578),
+('Philippines', 'BICOL REGION (REGION V)', 'Catanduanes', 'Baras', 12992),
+('Philippines', 'BICOL REGION (REGION V)', 'Catanduanes', 'Bagamanoc', 10403),
+('Philippines', 'BICOL REGION (REGION V)', 'Catanduanes', 'Panganiban', 8947),
+('Philippines', 'BICOL REGION (REGION V)', 'Catanduanes', 'Gigmoto', 8348);
+
+-- this is validated from psa 2024
