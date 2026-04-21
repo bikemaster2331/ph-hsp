@@ -1,0 +1,7 @@
+"hospital_name","region","province","municipality","ownership","service_capability","beds","BLDG OR HOUSE NO., STREET, BRGY (as applicable)"
+"CATANDUANES DOCTORS HOSPITAL, INC.",REGION 5,Catanduanes,Virac,Private,Level 2,"60","Barangay Valencia, Virac, Catanduanes"
+"IMMACULATE HEART OF MARY HOSPITAL, INC.",REGION 5,Catanduanes,Virac,Private,Level 2,"36","E. Rafael St., Rawis, Virac, Catanduanes"
+PANDAN DISTRICT HOSPITAL,REGION 5,Catanduanes,Pandan,Government,Level 1,"25","Vera Street, Napo, Pandan, Catanduanes"
+JUAN M. ALBERTO MEMORIAL DISTRICT HOSPITAL,REGION 5,Catanduanes,San Andres,Government,Level 1,"25","Belmonte, San Andres, Catanduanes"
+VIGA DISTRICT HOSPITAL,REGION 5,Catanduanes,Viga,Government,Level 1,"25","San Vicente, Viga, Catanduanes"
+EASTERN BICOL MEDICAL CENTER,REGION 5,Catanduanes,Virac,Government,Level 2,"84","San Isidro Village, Virac, Catanduanes"
