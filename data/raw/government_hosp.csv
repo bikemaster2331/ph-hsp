@@ -1,0 +1,517 @@
+﻿,#,REGION,PROVINCE,CITY/ MUNICIPALITY,"BLDG OR HOUSE NO., STREET, BRGY (as applicable)",NAME OF HOSPITAL,OWNERSHIP,OWNERSHIP CLASS,CLASS,SERVCE CAPABILITY,ABC,CONTACT NOS.,E-MAIL ADDRESS,VALIDITY FROM,VALIDITY UNTIL
+,1,REGION 1,Ilocos Norte,Bangui,Brgy. Abaca,BANGUI DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,"077-676-1158
+09171580029
+09204689353",banguidh@gmail.com,1/1/2025,12/31/2025
+,2,REGION 1,Ilocos Norte,Batac,"Barangay 6, San Julian, Batac, Ilocos Norte",MARIANO MARCOS MEMORIAL HOSPITAL AND MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,400,9171369594,mmmhmc.cao@gmail.com,1/1/2025,12/31/2025
+,3,REGION 1,Ilocos Norte,Laoag City,"Brgy. 23 San Matias, P. Gomez St.",GOV. ROQUE B. ABLAN SR. MEMORIAL HOSPITAL,Government,LGU,General,Level 2,100,772-0303,"
+pho_grbasmh@yahoo.com",1/1/2025,12/31/2025
+,4,REGION 1,Ilocos Norte,Laoag City,Brgy. 46 Nalbo,LAOAG CITY GENERAL HOSPITAL,Government,LGU,General,Level 1,50,"077-670-6304
+09955817054
+09338708355",lcgh_lc@yahoo.com,1/1/2025,12/31/2025
+,5,REGION 1,Ilocos Sur,Candon City,San. Nicolas,CITY OF CANDON HOSPITAL,Government,LGU,General,Level 2,25,742-5675,"cityofcandonhospital@
+yahoo.com",1/1/2025,12/31/2025
+,6,REGION 1,Ilocos Sur,Candon City,Parioc Primero,ILOCOS SUR MEDICAL CENTER,Government,DOH RETAINED,General,Level 2,200,9164976615,ilocossurmedicalcenter@gmail.com,1/1/2025,12/31/2025
+,7,REGION 1,Ilocos Sur,Cervantes,National Road,ILOCOS SUR DISTRICT HOSPITAL-BESSANG PASS CERVANTES,Government,LGU,General,Level 1,25,"09090775565
+09481525134",bessangpassmemorialhospital@yahoo.com,1/1/2025,12/31/2025
+,8,REGION 1,Ilocos Sur,Magsingal,Sta. Monica,ILOCOS SUR DISTRICT HOSPITAL-MAGSINGAL,Government,LGU,General,Level 1,25,"077-604-0577
+09361982146",hospitalmagsingaldistrict@yahoo.com,1/1/2025,12/31/2025
+,9,REGION 1,Ilocos Sur,Narvacan,Paratong,ILOCOS SUR DISTRICT HOSPITAL-NARVACAN,Government,LGU,General,Level 1,50,"077-604-0271
+09172172115
+09060215440",cisdhhospital@yahoo.com,1/1/2025,12/31/2025
+,10,REGION 1,Ilocos Sur,Santa Lucia,"National Highway, San Juan",ILOCOS SUR DISTRICT HOSPITAL-STA LUCIA,Government,LGU,General,Level 1,25,"09209141967
+09151633280",staluciadistricthospital@yahoo.com.ph,1/1/2025,12/31/2025
+,11,REGION 1,Ilocos Sur,Sinait,"Maharlika Highway, Brgy. Curtin",ILOCOS SUR DISTRICT HOSPITAL-SINAIT,Government,LGU,General,Level 1,25,"077-728-8094 /
+09175700940
+09538834158",isdhsinait@gmail.com,1/1/2025,12/31/2025
+,12,REGION 1,Ilocos Sur,Tagudin,Bio,ILOCOS SUR DISTRICT HOSPITAL-TAGUDIN,Government,LGU,General,Level 1,50,"077-748-7015 /
+09190977594",tagudin_hospital@yahoo.com,1/1/2025,12/31/2025
+,13,REGION 1,Ilocos Sur,Vigan City,Quirino Blvd. Tamag,ILOCOS SUR PROVINCIAL HOSPITAL GABRIELA SILANG,Government,LGU,General,Level 2,100,674-1813,pho_gabriela@yahoo.com,1/1/2025,12/31/2025
+,14,REGION 1,La Union,Agoo,Nazareno,LA UNION MEDICAL CENTER,Government,LGU,General,Level 2,100,"607-5938
+09273298668",lumc_official02@yahoo.com,1/1/2025,12/31/2025
+,15,REGION 1,La Union,Bacnotan,Poblacion,BACNOTAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,"072-607-4044 /
+09171734922",bdh_bacnotan@yahoo.com,1/1/2025,12/31/2025
+,16,REGION 1,La Union,Balaoan,Bungol,BALAOAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,"072-603-0280
+09171899259",bldh_balaoan@gmail.com,1/1/2025,12/31/2025
+,17,REGION 1,La Union,Caba,Poblacion Sur,CABA DISTRICT HOSPITAL,Government,LGU,General,Level 1,15,"09125559918
+09564817840",cdh@launion.gov.ph,1/1/2025,12/31/2025
+,18,REGION 1,La Union,Naguilian,Natividad,NAGUILIAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,"072-609-1853 /
+09209696745",ndh@launion.gov.ph,1/1/2025,12/31/2025
+,19,REGION 1,La Union,Rosario,Concepcion,ROSARIO DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,"072-687-0456/9988
+09088101985",rdh@launion.gov.ph,1/1/2025,12/31/2025
+,20,REGION 1,La Union,San Fernando City,"Barangay Parian, San Fernando City, La Union",ILOCOS TRAINING AND REGIONAL MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,306,"
+
+0912-016-0904",nmr.itrmc20@gmail.com,1/1/2025,12/31/2025
+,21,REGION 1,Pangasinan,Alaminos City,"Sabaro, Poblacion",WESTERN PANGASINAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,75,075-632-3810,wpdhalaminosnew@yahoo.com,1/1/2025,12/31/2025
+,22,REGION 1,Pangasinan,Asingan,Dupac,ASINGAN COMMUNITY HOSPITAL (SANTIAGO ABELLA GINEZ SR. MEM'L HOSPITAL),Government,LGU,General,Level 1,24,9176256067,asinhosp@yahoo.com,1/1/2025,12/31/2025
+,23,REGION 1,Pangasinan,Bayambang,Bical Norte,BAYAMBANG DISTRICT HOSPITAL,Government,LGU,General,Level 1,89,"075-592-2958
+09274265542",bayambang_districthospital80@yahoo.com,1/1/2025,12/31/2025
+,24,REGION 1,Pangasinan,Bolinao,Sampaloc,BOLINAO COMMUNITY HOSPITAL,Government,LGU,General,Level 1,25,"09267271282/
+09778509125",bolinao_y_ch@ymail.com,1/1/2025,12/31/2025
+,25,REGION 1,Pangasinan,Dagupan City,"Arellano St., Dagupan City",REGION 1 MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,300,653-7162,region1mc@gmail.com,1/1/2025,12/31/2025
+,26,REGION 1,Pangasinan,Dasol,Bobonot,DASOL COMMUNITY HOSPITAL (COL. DOMINGO A. VALDEZ MEMORIAL HOSPITAL),Government,LGU,General,Level 1,20,9071401444,dasolcommunityhospital@gmail.com,1/1/2025,12/31/2025
+,27,REGION 1,Pangasinan,Lingayen,"Jimenez St., Poblacion",LINGAYEN DISTRICT HOSPITAL (DON MARIANO C. VERSOZA MEMORIAL HOSPITAL),Government,LGU,General,Level 1,40,"075-542-2295
+09223852982",ldh_pang@yahoo.com,1/1/2025,12/31/2025
+,28,REGION 1,Pangasinan,Manaoag,Baritao,MANAOAG COMMUNITY HOSPITAL,Government,LGU,General,Level 1,25,"075-519-4833
+09152720326
+09658720800",manch2021@gmail.com,1/1/2025,12/31/2025
+,29,REGION 1,Pangasinan,Mangatarem,Casilagan,MANGATAREM DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,9688703888,mangataremdistricthospital@gmail.com,1/1/2025,12/31/2025
+,30,REGION 1,Pangasinan,Mapandan,24 Fire Tree St. Poblacion,MAPANDAN COMMUNITY HOSPITAL,Government,LGU,General,Level 1,20,"075-632-0491
+09464972619
+09953624226",mapandancommhosp@yahoo.com,1/1/2025,12/31/2025
+,31,REGION 1,Pangasinan,Pozorrubio,Talogtog,POZORRUBIO COMMUNITY HOSPITAL,Government,LGU,General,Level 1,44,"075-632-3978
+09423492121",pozmunhospitall@gmail.com,1/1/2025,12/31/2025
+,32,REGION 1,Pangasinan,Rosales,Government Center Carmay East,CONRADO F. ESTRELLA REGIONAL MEDICAL AND TRAUMA CENTER,Government,DOH RETAINED,General,Level 2,103,"0755296863 /
+09177819724",cfermtc@gmail.com,1/1/2025,12/31/2025
+,33,REGION 1,Pangasinan,San Carlos City,Bolingit,PANGASINAN PROVINICIAL HOSPITAL,Government,LGU,General,Level 2,250,0933-4637274,desu.pph@gmail.com,1/1/2025,12/31/2025
+,34,REGION 1,Pangasinan,Tayug,New Magallanes,EASTERN PANGASINAN DISTRICT HOSPITAL,Government,LGU,General,Level 2,150,"0926-3000057
+09663204020",epdh_tayug@yahoo.com,1/1/2025,12/31/2025
+,35,REGION 1,Pangasinan,Umingan,"Burgos St., Poblacion West",UMINGAN COMMUNITY HOSPITAL,Government,LGU,General,Level 1,15,"075-5776-5033
+09338198389",uminganch@yahoo.com,1/1/2025,12/31/2025
+,36,REGION 1,Pangasinan,Urdaneta,Dilan Paurido,URDANETA DISTRICT HOSPITAL (DON AMADEO J. PEREZ SR. MEMORIAL GENERAL HOSPITAL),Government,LGU,General,Level 1,110,"075-6636-0690
+075- 523-1037
+09171462568",urdanetadistricthospital@gmail.com,1/1/2025,12/31/2025
+,37,REGION 2,Batanes,Basco,"National Road, Kayhuvokan",BATANES GENERAL HOSPITAL,Government,DOH RETAINED,General,Level 2,75,9190996724,bataneshospital@gmail.com,1/1/2025,12/31/2025
+,38,REGION 2,Cagayan,Aparri,"National Highway, Toran",APARRI PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,50,(078) 377-3207 09363718430,aparriprovincialhospital@gmail.com,1/1/2025,12/31/2025
+,39,REGION 2,Cagayan,Ballesteros,Cabuluan West,BALLESTEROS DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,(078) 255 4683 09569152768,ballesterosdistricthospital@gmail.com,1/1/2025,12/31/2025
+,40,REGION 2,Cagayan,Camalaniugan,Gen. Batalla,MATILDE A. OLIVAS DISTRICT HOSPITAL,Government,LGU,General,Level 1,17,(078) 377-1041 09668619798,matildeaolivas@yahoo.com,1/1/2025,12/31/2025
+,41,REGION 2,Cagayan,Gonzaga,Barangay Smart,ALFONSO PONCE ENRILE MEMORIAL DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,(078) 377-7499 09171803057,apemdhospital@gmail.com,1/1/2025,12/31/2025
+,42,REGION 2,Cagayan,Lasam,Ignacio B. Jurado,LASAM DISTRICT HOSPITAL,Government,LGU,General,Level 1,17,9177758988,lasamdistricthospital@yahoo.com,1/1/2025,12/31/2025
+,43,REGION 2,Cagayan,Piat,Maguilling,NUESTRA SEÑORA DE PIAT DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,9175605691,nspdh01@yahoo.com,1/1/2025,12/31/2025
+,44,REGION 2,Cagayan,Tuao,"Purok 4, Bulagao",TUAO DISTRICT HOSPITAL,Government,LGU,General,Level 1,17,9176758691,tdh_pgoc@yahoo.com,1/1/2025,12/31/2025
+,45,REGION 2,Cagayan,Tuguegarao City,"Maharlika Highway, Carig",CAGAYAN VALLEY MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,649,(078) 304-1410 (078) 304-0033 (078) 302- 0000 09176285312,cvmcr2@gmail.com,1/1/2025,12/31/2025
+,46,REGION 2,Cagayan,Tuguegarao City,"Luna Street, Centro 6",TUGUEGARAO CITY PEOPLE'S GENERAL HOSPITAL,Government,LGU,General,Level 1,68,(078) 844-1337 (078) 844-5995 09068493659,tuguegaraocityPGH@yahoo.com,1/1/2025,12/31/2025
+,47,REGION 2,Isabela,Cabagan,Ngarag,MILAGROS ALBANO DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,(078) 325-2069 09667458361,madh_cabagan@yahoo.com,1/1/2025,12/31/2025
+,48,REGION 2,Isabela,Cauayan City,"Rosemarie Reyes Street, District 1",CAUAYAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,(078) 260-1120 09171789163,cdh_isabela@yahoo.com,1/1/2025,12/31/2025
+,49,REGION 2,Isabela,Echague,Ipil,ECHAGUE DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,(078) 305-9088 09067850410,echague_districthospital@yahoo.com,1/1/2025,12/31/2025
+,50,REGION 2,Isabela,Ilagan City,Barangay Lullutan,CITY OF ILAGAN MEDICAL CENTER,Government,LGU,General,Level 1,75,09569365277 09999932534,herbeebarrios@yahoo.com cimc_admin@cityofilagan.gov.ph,1/1/2025,12/31/2025
+,51,REGION 2,Isabela,Ilagan City,"Maharlika Road, Calamagui 2nd",GOVERNOR FAUSTINO N. DY SR. MEMORIAL HOSPITAL,Government,LGU,General,Level 1,100,(078) 624-1688,gfndsmh@yahoo.com.ph,1/1/2025,12/31/2025
+,52,REGION 2,Isabela,Roxas,San Antonio,MANUEL A. ROXAS DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,(078) 642-0152 09995043314,mardh_rxs@yahoo.com.ph,1/1/2025,12/31/2025
+,53,REGION 2,Isabela,San Mariano,Sta. Filomena,SAN MARIANO COMMUNITY HOSPITAL,Government,LGU,General,Level 1,10,9613482375,sanmariano_communityhospital@yahoo.com,1/1/2025,12/31/2025
+,54,REGION 2,Isabela,Santiago City,"Corner Recto Avenue, Zamora St., Rosario",SOUTHERN ISABELA MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,350,(078) 307-2637 (078) 705-0459,simc.mcc0421@gmail.com,1/1/2025,12/31/2025
+,55,REGION 2,Nueva Vizcaya,Bambang,Almaguer North,NUEVA VIZCAYA PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,173,(078) 392-2959 09228680843,plgunuevavizcaya.nvph@gmail.com,1/1/2025,12/31/2025
+,56,REGION 2,Nueva Vizcaya,Bayombong,Magsaysay,REGION II TRAUMA AND MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,306,(078) 805- 3560,r2tmc@doh.gov.ph,1/1/2025,12/31/2025
+,57,REGION 2,Nueva Vizcaya,Dupax del Norte,"Sitio Tanap, Malasin",DUPAX DISTRICT HOSPITAL,Government,LGU,General,Level 1,17,9175751202,plgunuevavizcaya.ddh@gmail.com,1/1/2025,12/31/2025
+,58,REGION 2,Nueva Vizcaya,Kayapa,Pampang,LT. TIDANG MEMORIAL HOSPITAL,Government,LGU,General,Level 1,15,9292767896,lt.tidangmemorialhospital2003@gmail.com,1/1/2025,12/31/2025
+,59,REGION 2,Quirino,Cabarroguis,"National Highway, Mangandingay",QUIRINO PROVINCE MEDICAL CENTER,Government,LGU,General,Level 1,150,9976622677,qpmcofficial@gmail.com,1/1/2025,12/31/2025
+,60,REGION 2,Quirino,Maddela,Diduyon,MADDELA DISTRICT HOSPITAL,Government,LGU,General,Level 1,39,09178650834 09985779616,mdhquirino1985@yahoo.com,1/1/2025,12/31/2025
+,61,REGION 3,Aurora,Baler,Brgy. Reserva,AURORA MEMORIAL HOSPITAL,Government,LGU,General,Level 1,66,042-209-4256,auroramemhos@gmail.com,1/1/2025,12/31/2025
+,62,REGION 3,Bataan,Balanga City,"Manahan St., Tenejero",BATAAN GENERAL HOSPITAL AND MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,607,237-2269/3635,bataanghmc2020@gmail.com,1/1/2025,12/31/2025
+,63,REGION 3,Bataan,Dinalupihan,San Ramon,JOSE C. PAYUMO JR. MEMORIAL HOSPITAL,Government,LGU,General,Level 1,100,0923-748-4800,g_abara@yahoo.com/jcpayumo@bataan.gov.ph,1/1/2025,12/31/2025
+,64,REGION 3,Bataan,Mariveles,"Ave. Of The Phils, Freeport Area Of Bataan",FREEPORT AREA OF BATAAN GENERAL HOSPITAL,Government,LGU,General,Level 1,25,047-613-4130/09282133098,mdh@bataan.gov.ph,1/1/2025,12/31/2025
+,65,REGION 3,Bataan,Mariveles,P. Monroe St. Pob.,MARIVELES MENTAL WELLNESS AND GENERAL HOSPITAL,Government,DOH RETAINED,Specialty,Level 1,18,"(047) 6339006
+(047) 9354617
+(047) 9354138",planning.mmwgh@gmail.com,1/1/2025,12/31/2025
+,66,REGION 3,Bataan,Orani,Lourdes Street Ma.Fe Subdivision,ORANI DISTRICT HOSPITAL,Government,LGU,General,Level 1,45,047-431-2827,odhbataan@yahoo.com,1/1/2025,12/31/2025
+,67,REGION 3,Bulacan,Baliuag,"Carpa Vilage,Sabang",BALIUAG DISTRICT HOSPITAL,Government,LGU,General,Level 1,100,044-766-2913/099-8960-5240,bdhospital1970@gmail.com,1/1/2025,12/31/2025
+,68,REGION 3,Bulacan,Bocaue,Igulot,JONI VILLANUEVA GENERAL HOSPITAL,Government,DOH RETAINED,General,Level 2,69,,jonivgh.hrmu@gmail.com,1/1/2025,12/31/2025
+,69,REGION 3,Bulacan,Bulakan,"Bagumbayan,Bulakan",GREGORIO DEL PILAR DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,044-762-3748/0922-298-1112,gdpdh@bulacan.gov.ph,1/1/2025,12/31/2025
+,70,REGION 3,Bulacan,Calumpit,Caniogan,CALUMPIT DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,044-802-8988/ 0993-384-7742,cdh@bulacan.gov.ph,1/1/2025,12/31/2025
+,71,REGION 3,Bulacan,Guiguinto,"Tabe, Guiguinto, Bulacan",MAYOR ISAGANI C. PASCUAL HOSPITAL,Government,LGU,General,Level 1,32,044-760-7775/7776,ospitalgto@gmail.com,1/1/2025,12/31/2025
+,72,REGION 3,Bulacan,Hagonoy,"Toma Cruz St. Sto. Nino, Hagonoy, Bulacan",EMILIO G. PEREZ MEMORIAL HOSPITAL,Government,LGU,General,Level 1,50,099-5032-7180,egpdh@yahoo.com,1/1/2025,12/31/2025
+,73,REGION 3,Bulacan,Malolos City,"99 Potenciano St., Mojon Road",BULACAN MEDICAL CENTER,Government,LGU,General,Level 3,300,044-791-0630/662-2675,"phtobulacan2010@yahoo.com phopublichealth.bulacan@yahoo.com pho_bulacan@yahoo.com
+bmc.trinidad25@gmail.com",1/1/2025,12/31/2025
+,74,REGION 3,Bulacan,Norzagaray,Municipal Compound Poblacion,NORZAGARAY MUNICIPAL HOSPITAL,Government,LGU,General,Level 1,25,044-694-1336,joselitocsantiago@yahoo.com,1/1/2025,12/31/2025
+,75,REGION 3,Bulacan,San Jose del Monte City,Bagong Buhay I,OSPITAL NG LUNGSOD NG SAN JOSE DEL MONTE,Government,LGU,General,Level 1,120,9052682280,evelynbrigino@yahoo.com,1/1/2025,12/31/2025
+,76,REGION 3,Bulacan,San Miguel,Sta. Rita Old,SAN MIGUEL DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,044-678-2070/764-0130/0917-1183-794,sanmiguel_districthospital@yahoo.com,1/1/2025,12/31/2025
+,77,REGION 3,Bulacan,Santa Maria,Poblacion,ROGACIANO M. MERCADO MEMORIAL HOSPITAL,Government,LGU,General,Level 1,150,044-641-3038,rmmmh@bulacan.gov.ph,1/1/2025,12/31/2025
+,78,REGION 3,Nueva Ecija,Bongabon,"De Lara Street, Brgy Curva",BONGABON DISTRICT HOSPITAL,Government,LGU,General,Level 1,29,9472188421,bongabondistricthospital -ne@y.c.ph,1/1/2025,12/31/2025
+,79,REGION 3,Nueva Ecija,Cabanatuan City,Mabini Street,DR. PAULINO J. GARCIA MEMORIAL RESEARCH & MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,600,044-463-8286,dr.pjgmrmc85cabanatuan@gmail.com,1/1/2025,12/31/2025
+,80,REGION 3,Nueva Ecija,Cabanatuan City,"Maharlika Hi-Way,Daan Sarile",EDUARDO L. JOSON MEMORIAL HOSPITAL,Government,LGU,General,Level 1,150,044-960-0155,eljmemorialhospital@gmail.com,1/1/2025,12/31/2025
+,81,REGION 3,Nueva Ecija,Cabanatuan City,Maharlika Hi-Way,M.V. GALLEGO CABANATUAN CITY GENERAL HOSPITAL,Government,LGU,General,Level 1,76,0919-0899-880,mvgccgh01@yahoo.com,1/1/2025,12/31/2025
+,82,REGION 3,Nueva Ecija,Gapan City,Bayanihan,GAPAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,044-486-3346,gapandistricthospital@gmail.com,1/1/2025,12/31/2025
+,83,REGION 3,Nueva Ecija,Guimba,Pacac,GUIMBA DISTRICT HOSPITAL,Government,LGU,General,Level 1,17,9166158722,guimbadistricthospital@yahoo.com or @y.c,1/1/2025,12/31/2025
+,84,REGION 3,Nueva Ecija,San Antonio,San Mariano,SAN ANTONIO DISTRICT HOSPITAL,Government,LGU,General,Level 1,29,09122360367/044-486-2534,sanantoniodistricthospital@yahoo.com,1/1/2025,12/31/2025
+,85,REGION 3,Nueva Ecija,San Jose City,"A.O Pascual St., R. Eugenio",OSPITAL NG LUNGSOD NG SAN JOSE,Government,LGU,General,Level 1,23,044-4566671,olsj3121@gmail.com,1/1/2025,12/31/2025
+,86,REGION 3,Nueva Ecija,San Jose City,"Maharlika Hi-Way, Brgy.Malasin",SAN JOSE CITY GENERAL HOSPITAL,Government,LGU,General,Level 1,50,044-511-2265/3087/ 09187929092,sanjosegenhosp@yahoo.com,1/1/2025,12/31/2025
+,87,REGION 3,Nueva Ecija,San Leonardo,Diversion,SAN LEONARDO HOSPITAL,Government,LGU,General,Level 1,25,6.39178E+11,Sanleonardohospital@gmail.com,1/1/2025,12/31/2025
+,88,REGION 3,Nueva Ecija,Santo Domingo,"Prov. Rd., Pulong Bule",STO. DOMINGO DISTRICT HOSPITAL,Government,LGU,General,Level 1,17,09173661830/09605099270,stodomingodistricthospital@yahoo.com,1/1/2025,12/31/2025
+,89,REGION 3,Nueva Ecija,Talavera,Maestrang Kikay,TALAVERA GENERAL HOSPITAL,Government,DOH RETAINED,General,Level 2,77,044-940-7136,teh_talavera@yahoo.com,1/1/2025,12/31/2025
+,90,REGION 3,Pampanga,Angeles City,"Ninoy Aquino Ave.Clark Airbase, Clark",AIRFORCE CITY HOSPITAL,Government,AFP,General,Level 1,25,045-599-2014,AFCH2013@yahoo.com,1/1/2025,12/31/2025
+,91,REGION 3,Pampanga,Angeles City,"Villa Rosario, Pampang,Angeles City",RAFAEL LAZATIN MEMORIAL MEDICAL CENTER,Government,LGU,General,Level 1,120,045-322-4495,ona_rlmmc@yahoo.com,1/1/2025,12/31/2025
+,92,REGION 3,Pampanga,Arayat,"San Agustin Norte,Arayat",DR. EMIGDIO C. CRUZ SR. MEMORIAL HOSPITAL,Government,LGU,General,Level 1,25,045-885-0737,eccsmh@gmail.com,1/1/2025,12/31/2025
+,93,REGION 3,Pampanga,Floridablanca,"Basa Airbase, Floridablanca",BASA AIRBASE HOSPITAL,Government,AFP,General,Level 1,17,045-299-9700loc 3567,babhadwpaf@yahoo.com,1/1/2025,12/31/2025
+,94,REGION 3,Pampanga,Floridablanca,"San Jose,Floridablanca",ROMANA PANGAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,75,045-970-0488,romanapangan_district@yahoo.com,1/1/2025,12/31/2025
+,95,REGION 3,Pampanga,Guagua,"Sta. Rita,Guagua",DIOSDADO P. MACAPAGAL MEMORIAL HOSPITAL,Government,LGU,General,Level 1,75,045-900-2112/09064079821,dpmmhguagua@gmail.com,1/1/2025,12/31/2025
+,96,REGION 3,Pampanga,Lubao,"Plaza, San Nicolas 1St,Poblacion, Lubao",ESCOLASTICA ROMERO DISTRICT HOSPITAL,Government,LGU,General,Level 1,75,045-971-6329,escolasticaromero_hospital@yahoo.com,1/1/2025,12/31/2025
+,97,REGION 3,Pampanga,Mabalacat City,"Dau, Mabalacat",MABALACAT DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,045-3312801/09951081032,mdh_mabalacat@yahoo.com.ph,1/1/2025,12/31/2025
+,98,REGION 3,Pampanga,Macabebe,"Batasan, Macabebe",DOMINGO B. FLORES DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,045-921-3733,bethlili.hernandez@gmail.com,1/1/2025,12/31/2025
+,99,REGION 3,Pampanga,Magalang,"San Pablo,Magalang",DR. ANDRES LUCIANO JR. MEMORIAL HOSPITAL,Government,LGU,General,Level 1,48,045-866-0400,balitucandistrict@yahoo.com,1/1/2025,12/31/2025
+,100,REGION 3,Pampanga,Mexico,"Mexico-Magalang Rd, San Carlos, Mexico",MEXICO COMMUNITY HOSPITAL,Government,LGU,General,Level 1,50,045-966-3719,mexicocommunity.hospital@yahoo.com,1/1/2025,12/31/2025
+,101,REGION 3,Pampanga,Porac,"Babo Sacan, Porac",JOSE SONGCO LAPID DISTRICT HOSPITAL,Government,LGU,General,Level 1,48,045-963-0494/0920282818,pdhphic@yahoo.com,1/1/2025,12/31/2025
+,102,REGION 3,Pampanga,San Fernando City,Dolores,JOSE B. LINGAD MEMORIAL GENERAL HOSPITAL,Government,DOH RETAINED,General,Level 3,900,045-961-3921/963-2279,mcc@jblmgh.com.ph,1/1/2025,12/31/2025
+,103,REGION 3,Pampanga,San Fernando City,"Peo Cmpd, Mcarthur Highway, Sindalan",OFW HOSPITAL,Government,DMW,Specialty,Level 1,50,9816729754,ofwhospital@gmail.com,1/1/2025,12/31/2025
+,104,REGION 3,Pampanga,San Fernando City,Bulaon Resettlement Csfp,RICARDO P. RODRIGUEZ MEMORIAL HOSPITAL,Government,LGU,General,Level 1,25,045-963-4240,ricardo_p_rodriguez_mem_hosp43@yahoo.com,1/1/2025,12/31/2025
+,105,REGION 3,Pampanga,San Luis,"Sta. Lucia,San Luis",SAN LUIS DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,9175171753,sldhosp@yahoo.com,1/1/2025,12/31/2025
+,106,REGION 3,Tarlac,Camiling,"Brgy. Malacampa,Camiling",GILBERTO O. TEODORO MEMORIAL HOSPITAL,Government,LGU,General,Level 1,25,0948-605-0418,teodoro.gilberto@yahoo.com,1/1/2025,12/31/2025
+,107,REGION 3,Tarlac,Capas,"Municipal Comp., Sto. Domingo 2Nd,Capas",OSPITAL NING CAPAS,Government,LGU,General,Level 1,50,045-925-0154,onc2k14@gmail.com,1/1/2025,12/31/2025
+,108,REGION 3,Tarlac,Concepcion,"St. Jude Village, Brgy. Alfonso,Concepcion",CONCEPCION DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,045-923-0852,CDHtarlac.city@gmail.com,1/1/2025,12/31/2025
+,109,REGION 3,Tarlac,La Paz,"Catalan St. San Roque, La Paz",LA PAZ MEDICARE AND COMMUNITY HOSPITAL,Government,LGU,General,Level 1,17,045-611-0679,lpmch73@yahoo.com,1/1/2025,12/31/2025
+,110,REGION 3,Tarlac,Moncada,"San Julian, Moncada, Tarlac","CONGRESSMAN ENRIQUE ""HENRY"" M. COJUANGCO MEMORIAL DISTRICT HOSPITAL",Government,LGU,General,Level 1,17,9190674619,ehmc2019@gmail.com,1/1/2025,12/31/2025
+,111,REGION 3,Tarlac,Tarlac City,"Camp Gen. S. Aquino San Miguel, Tarlac",CAMP AQUINO STATION HOSPITAL,Government,AFP,General,Level 1,29,045-985-0028,cashnolcom@yahoo.com,1/1/2025,12/31/2025
+,112,REGION 3,Tarlac,Tarlac City,"Hospital Drive, San Vicente",TARLAC PROVINCIAL HOSPITAL,Government,LGU,General,Level 3,500,9209594035,tarlacprovincialhospital@yahoo.com,1/1/2025,12/31/2025
+,113,REGION 3,Zambales,Candelaria,"Yamot,Candelaria",CANDELARIA DISTRICT HOSPITAL,Government,LGU,General,Level 1,71,9299634454,cdhcandezambs@yahoo.com,1/1/2025,12/31/2025
+,114,REGION 3,Zambales,Iba,"Brgy. Palanginan, Iba",PRESIDENT RAMON MAGSAYSAY MEMORIAL HOSPITAL,Government,LGU,General,Level 2,150,0985-607-8663,pho.zambales@yahoo.com,1/1/2025,12/31/2025
+,115,REGION 3,Zambales,Olongapo City,"#1 Perimeter Rd., New Asinan",JAMES L. GORDON MEMORIAL HOSPITAL,Government,LGU,General,Level 3,270,047-222-4120,jlgordonhospital@gmail.com ochdept@yahoo.com.ph,1/1/2025,12/31/2025
+,116,REGION 3,Zambales,San Marcelino,"Sto. Domingo,San Marcelino",SAN MARCELINO DISTRICT HOSPITAL,Government,LGU,General,Level 1,89,047-602-2301/ 0928-572-5948,smdh_smz@yahoo.com,1/1/2025,12/31/2025
+,117,REGION 3,Zambales,Santa Cruz,"Poblacion North, Sta. Cruz",OSPITAL NG STA. CRUZ,Government,LGU,General,Level 1,28,"047-307-1431/0917-258-754, 09070599038",ospitalngsta.cruz_zambales@yahoo.com,1/1/2025,12/31/2025
+,118,REGION 4-A,Batangas,Balayan,"Gumamela, Balayan, Batangas",DON MANUEL LOPEZ MEMORIAL DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,043 727 6134/ 09989897808,donmanuellopezhospital@gmail.com,1/1/2025,12/31/2025
+,119,REGION 4-A,Batangas,Batangas City,"Kumintang Ibaba, Batangas City",BATANGAS MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,624,6.39153E+11,cao@batmc.doh.gov.ph,1/1/2025,12/31/2025
+,120,REGION 4-A,Batangas,Bauan,"S. Ylagan St., Aplaya, Bauan, Batangas",BAUAN GENERAL HOSPITAL,Government,LGU,General,Level 1,45,043-7738672/ 09634042630/ 09678517644,bghospital_13@yaoo.com,1/1/2025,12/31/2025
+,121,REGION 4-A,Batangas,Cuenca,"Malvar Cor Mabini St., Cuenca, Batangas",MARTIN MARASIGAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,043-3421604/ 09564937513/ 043-7401381,martinmarasigan1980@yahoo.com,1/1/2025,12/31/2025
+,122,REGION 4-A,Batangas,Lemery,"Palanas, Lemery, Batangas",BATANGAS PROVINCIAL HOSPITAL (DON JUAN MAYUGA MEMORIAL HOSPITAL),Government,LGU,General,Level 1,50,043-4090573/ 09175053738,batprohospital@yahoo.com.ph,1/1/2025,12/31/2025
+,123,REGION 4-A,Batangas,Lipa City,"Fernando Blvd., Fernando Air Base, Lipa City, Batangas",FERNANDO AIR BASE HOSPITAL,Government,PAF,General,Level 1,70,9268136741,fabhospital2020@gmail.com,1/1/2025,12/31/2025
+,124,REGION 4-A,Batangas,Lipa City,"Brgy. 7, Lipa City, Batangas",LIPA CITY HOSPITAL SYSTEM II,Government,LGU,General,Level 1,40,043-7573487/ 09277195167/ 09668503463,lipacitydistricthospital@yahoo.com,1/1/2025,12/31/2025
+,125,REGION 4-A,Batangas,Lipa City,"A. Tanco Drive, Barangay Marawoy, Lipa City, Batangas",OSPITAL NG LIPA,Government,LGU,General,Level 1,70,09952680936/ 043-7021845,ospitalnglipa2013@gmail.com,1/1/2025,12/31/2025
+,126,REGION 4-A,Batangas,Lobo,"Fabrica, Lobo, Batangas",LOBO MUNICIPAL HOSPITAL,Government,LGU,General,Level 1,14,9178864465,lobo_municipal_hospital@yahoo.com,1/1/2025,12/31/2025
+,127,REGION 4-A,Batangas,Nasugbu,"Villa Marquita Subdivision, Sitio Sagbat, Brgy. Lumbangan, Nasugbu, Batangas",APACIBLE MEMORIAL DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,9178223984,apaciblememorialdistricthospital@yahoo.com,1/1/2025,12/31/2025
+,128,REGION 4-A,Batangas,Rosario,"Namunga, Rosario, Batangas",MAHAL NA VIRGEN MARIA STO. ROSARIO DISTRICT HOSPITAL,Government,LGU,General,Level 1,30,043-3120411,,1/1/2025,12/31/2025
+,129,REGION 4-A,Batangas,San Jose City,"Banay Banay 1, San Jose, Batangas",SAN JOSE DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,7246500/ 09178223984/ 043-7780921,sjdhbats_78@yahoo.com,1/1/2025,12/31/2025
+,130,REGION 4-A,Batangas,San Juan,"Talahiban 2.0, San Juan, Batangas",SAN JUAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,(043) 575-5432,sanjuan_districthospital@yahoo.com,1/1/2025,12/31/2025
+,131,REGION 4-A,Batangas,Tanauan City,"Santor, Tanauan City, Batangas",LAUREL MEMORIAL DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,043-7840958/ 043-7065255/ 09606924685,lmdh36@yahoo.com,1/1/2025,12/31/2025
+,132,REGION 4-A,Cavite,Bacoor City,"Reyville Subdivision, Brgy. Habay Ii, Bacoor, Cavite",SOUTHERN TAGALOG REGIONAL HOSPITAL (BACOOR DISTRICT HOSPITAL),Government,DOH RETAINED,General,Level 2,100,(046) 418-3644,bdh_62@yahoo.com,1/1/2025,12/31/2025
+,133,REGION 4-A,Cavite,Cavite City,"B1 100 Zamora St., Fort San Felipe, Cavite City, Cavite",CAVITE NAVAL HOSPITAL,Government,LGU,General,Level 1,25,(046) 431-0469,cavitenavalhospital@yahoo.com,1/1/2025,12/31/2025
+,134,REGION 4-A,Cavite,Dasmariñas City,"Brgy. Burol II, City Of Dasmariñas, Cavite",PAGAMUTAN NG DASMARIÑAS,Government,LGU,General,Level 2,119,4814400 loc. 703/,pagamutanngdasma@gmail.com,1/1/2025,12/31/2025
+,135,REGION 4-A,Cavite,Imus City,"Brgy. Malagasang I-G, Imus City, Cavite",OSPITAL NG IMUS,Government,LGU,General,Level 1,50,046-4198300/ 09178961854,ospitalngimus.2018@gmail.com,1/1/2025,12/31/2025
+,136,REGION 4-A,Cavite,Trece Martires City,"Liuciano, Trece Martires City, Cavite",GENERAL EMILIO AGUINALDO MEMORIAL HOSPITAL,Government,LGU,General,Level 3,284,0977 332 5852 / (046) 686-0856,pho1_cavite@yahoo.com,1/1/2025,12/31/2025
+,137,REGION 4-A,Laguna,Bay,"Brgy. Maitim, Bay, Laguna",LAGUNA PROVINCIAL HOSPITAL-BAY DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,(049) 557-6393/ 049-5368357/ 09190681421,lph.bdh@lahuna.gov.ph,1/1/2025,12/31/2025
+,138,REGION 4-A,Laguna,Biñan City,"Ospital Ng Biñan, Opd Building Canlalay, Biñan City, Laguna",OSPITAL NG BIÑAN,Government,LGU,General,Level 1,50,(049) 511-4119/ 09303618348/ 09292583183/ 09667756588,bkbmpclaboratory@gmail.com,1/1/2025,12/31/2025
+,139,REGION 4-A,Laguna,Cabuyao City,"Brgy. Banay-Banay, Cabuyao City, Laguna",CABUYAO CITY HOSPITAL,Government,LGU,General,Level 1,36,09778309444/ 09228425996,cabuyaocityhospital@yahoo.com,1/1/2025,12/31/2025
+,140,REGION 4-A,Laguna,Cabuyao City,"Limcaoco Subdivision, Brgy. Tres, Cabuyao, Laguna",OSPITAL NG CABUYAO,Government,LGU,General,Level 1,40,(049) 531-1193,ospitalngcabuyao_2016@yahoo.com.ph,1/1/2025,12/31/2025
+,141,REGION 4-A,Laguna,Calamba City,"Bucal, Calamba City, Laguna",DR. JOSE P. RIZAL MEMORIAL DISTRICT HOSPITAL,Government,LGU,General,Level 1,100,09492508952/ 5248862/ 5218875,jprizal08251952@gmail.com,1/1/2025,12/31/2025
+,142,REGION 4-A,Laguna,Los Baños,"Domingo M. Lantican Avenue, University of the Philippines, Los Baños, Laguna",UNIVERSITY HEALTH SERVICE,Government,UNIVERSITY/SCHOOL,General,Level 1,12,0960-383-5633,uhs.uplb@up.edu.ph,1/1/2025,12/31/2025
+,143,REGION 4-A,Laguna,Luisiana,"Fabricante St., Barangay San Antonio, Luisiana, Laguna",LAGUNA PROVINCIAL HOSPITAL - LUISIANA DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,(049) 503-6250/ 09061541565,ldhlaguna@yahoo.com,1/1/2025,12/31/2025
+,144,REGION 4-A,Laguna,Majayjay,Brgy Talortor Majayjay Laguna,LAGUNA PROVINCIAL HOSPITAL - MAJAYJAY DISTRICT HOSPITAL,Government,LGU,General,Level 1,34,0495392991 / 09174447689,majayjaymedicarehospital@yahoo.com,1/1/2025,12/31/2025
+,145,REGION 4-A,Laguna,Nagcarlan,"F. Baltazar, Poblacion Iii, Nagcarlan, Laguna",LAGUNA PROVINICIAL HOSPITAL- NAGCARLAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,20,049-5631014,lph.ndh@laguna.gov.ph,1/1/2025,12/31/2025
+,146,REGION 4-A,Laguna,Pakil,"100 Tavera, Pakil, Laguna",LAGUNA PROVINCIAL HOSPITAL-GENERAL CAILLES MEMORIAL DISTRICT HOSPITAL,Government,LGU,General,Level 1,30,049-5570213/ 5570214,caillesjuan@yahoo.com.ph,1/1/2025,12/31/2025
+,147,REGION 4-A,Laguna,San Pablo City,"Gen. Luna St., Brgy. 4A, San Pablo City, Laguna",LPH SAN PABLO CITY DISTRICT HOSPITAL,Government,LGU,General,Level 1,100,,lphsanpedrodistricthospital@gmail.com,1/1/2025,12/31/2025
+,148,REGION 4-A,Laguna,San Pablo City,Bañagale Subd. Brgy. San Pablo City General Hospital,SAN PABLO CITY GENERAL HOSPITAL,Government,LGU,General,Level 1,32,(049) 503-1431,spcgh2010@gmail.com,1/1/2025,12/31/2025
+,149,REGION 4-A,Laguna,San Pedro City,"Phase 1, Brgy. San Antonio, San Pedro, Laguna",LAGUNA PROVINCIAL HOSPITAL (LPH) - SAN PEDRO DISTRICT HOSPITAL,Government,LGU,General,Level 1,15,8-8017467/ 09228415608,lph-spdh@laguna.gov.ph,1/1/2025,12/31/2025
+,150,REGION 4-A,Laguna,San Pedro City,"7 Sto. Niño, San Pedro, Laguna",SAN PEDRO JOSE L. AMANTE EMERGENCY HOSPITAL,Government,LGU,General,Level 1,20,88010182,jlaeh1201@gmail.com,1/1/2025,12/31/2025
+,151,REGION 4-A,Laguna,Santa Cruz,"J. De Leon St., Sta. Cruz, Laguna",LAGUNA MEDICAL CENTER,Government,LGU,General,Level 2,150,049-5433333 loc. 308/ 09209384239,lagunamedcenter@gmail.com,1/1/2025,12/31/2025
+,152,REGION 4-A,Laguna,Santa Rosa City,"Cattleya St., Lm Subd., Brgy. Market Area, City Of Santa Rosa, Laguna",SANTA ROSA COMMUNITY HOSPITAL,Government,LGU,General,Level 1,83,049 533-9098/ 85194642,srch1995@yahoo.com/ santarosacommunityhospital1995@gmail.com,1/1/2025,12/31/2025
+,153,REGION 4-A,Quezon,Alabat,"Camagong, Alabat, Quezon",QUEZON PROVINCIAL HOSPITAL NETWORK- ALABAT,Government,LGU,General,Level 1,12,9175053486,alabathospital@gmail.com,1/1/2025,12/31/2025
+,154,REGION 4-A,Quezon,Atimonan,"G. Orda St. Zone Ii Poblacion Atimonan, Quezon 4331",QUEZON PROVINCIAL HOSPITAL NETWORK-DOÑA MARTA (ATIMONAN),Government,LGU,General,Level 1,50,423164048,lailani_dollano@yahoo.com,1/1/2025,12/31/2025
+,155,REGION 4-A,Quezon,Catanauan,"Brgy. 08, Catanauan, Quezon",QUEZON PROVINCIAL HOSPITAL NETWORK- BONDOC PENINSULA (CATANAUAN),Government,LGU,General,Level 1,25,042-3734801/ 09500643156/ 09475339100/ 09477515437,bpdhcatanauan@gmail.com,1/17/2025,12/31/2025
+,156,REGION 4-A,Quezon,Guinayangan,"Brgy. Calimpac, Guinayangan, Quezon",QUEZON PROVINCIAL HOSPITAL NETWORK-GUINAYANGAN,Government,LGU,General,Level 1,15,042-7176035/ 09701697311,guinayangan.hospital@gmail.com,1/1/2025,12/31/2025
+,157,REGION 4-A,Quezon,Gumaca,"Maharlika Highway, Brgy. Rosario, Gumaca, Quezon",QUEZON PROVINCIAL HOSPITAL NETWORK-GUMACA,Government,LGU,General,Level 1,75,042 317 7535,gdhquezon@yahoo.com,1/1/2025,12/31/2025
+,158,REGION 4-A,Quezon,Infanta,"Barangay Gumian Infanta, Quezon",QUEZON PROVINCIAL HOSPITAL NETWORK-CLARO M. RECTO (INFANTA),Government,LGU,General,Level 1,39,9299740392,cmrmdh@yahoo.com,1/1/2025,12/31/2025
+,159,REGION 4-A,Quezon,Lopez,"Maharlika Highway, Brgy. Magsaysay, Lopez, Quezon",MAGSAYSAY MEMORIAL DISTRICT HOSPITAL,Government,LGU,General,Level 1,75,(042) 302-6030/ 09791738233,mmdhlopezquezon@yahoo.com,1/1/2025,12/31/2025
+,160,REGION 4-A,Quezon,Lucena City,"Quezon Avenue, Lucena City, Quezon",QUEZON PROVINCIAL HOSPITAL NETWORK - QUEZON MEDICAL CENTER,Government,LGU,General,Level 3,200,042-7103444/ 09109771146,qmc.coh@gmail.com,1/1/2025,12/31/2025
+,161,REGION 4-A,Quezon,Mauban,"Barangay Polo, Mauban, Quezon",QUEZON PROVINCIAL HOSPITAL NETWORK - MAUBAN,Government,LGU,General,Level 1,25,(042)7840-216 / (042)7840-313,maubandistricthospital@gmail.com,1/1/2025,12/31/2025
+,162,REGION 4-A,Quezon,San Francisco,"Brgy. Cawayan I, San Francisco, Quezon",QUEZON PROVINCIAL HOSPITAL NETWORK-SAN FRANCISCO,Government,LGU,General,Level 1,10,042-7131514/ 09367131514/ 09196824025,sf_mhospital@yahoo.com,,12/31/2025
+,163,REGION 4-A,Quezon,Tagkawayan,"Munting Parang, Tagkawayan, Quezon",MARIA L. ELEAZAR GENERAL HOSPITAL,Government,DOH RETAINED,General,Level 1,25,9228304873/ 042-9110599/,mlegh.tk11474@gmail.com/ hfdumlegh@gmail.com,1/1/2025,12/31/2025
+,164,REGION 4-A,Quezon,Unisan,"Brgy. Ibabang Kalilayan, Unisan, Quezon",QUEZON PROVINCIAL HOSPITAL NESTWORK- UNISAN,Government,LGU,General,Level 1,10,9189369145,conglancion@yahoo.com,1/1/2025,12/31/2025
+,165,REGION 4-A,Rizal,Angono,"Ibañez St., Brgy. San Isidro, Angono, Rizal",RIZAL PROVINCIAL HOSPITAL SYSTEM-ANGONO ANNEX,Government,LGU,General,Level 1,75,8651-2253/ 09618698444,rphsangono75@gmail.com,1/1/2025,12/31/2025
+,166,REGION 4-A,Rizal,Antipolo City,"224 Sumulong Highway, Mambugan, Antipolo City",ANTIPOLO CITY HOSPITAL SYSTEM IV-MAMBUGAN,Government,LGU,General,Level 1,46,8687-1114; 8687-1118,achsmambugan@yahoo.com,1/1/2025,12/31/2025
+,167,REGION 4-A,Rizal,Antipolo City,"Sitio Cabading, Brgy. Inarawan, Antipolo City, Rizal",ANTIPOLO CITY HOSPITAL SYSTEM-CABADING,Government,LGU,General,Level 1,27,84751876/ 09218916416,cabadinghospital@gmail.com,1/1/2025,12/31/2025
+,168,REGION 4-A,Rizal,Antipolo City,"Nha Ave., Purok Imelda, Brgy. Dela Paz, Cogeo, Antipolo City, Rizal",RIZAL PROVINCIAL HOSPITAL SYSTEM- ANTIPOLO ANNEX 1,Government,LGU,General,Level 1,50,286398453/ 09175642346,rphs.antipoloannex@gmail.com,1/1/2025,12/31/2025
+,169,REGION 4-A,Rizal,Antipolo City,"Provincial Road, Barangay Dalig, Antipolo City, Rizal",RIZAL PROVINCIAL HOSPITAL SYSTEM-ANTIPOLO ANNEX II,Government,LGU,General,Level 1,70,(02) 941-8518/ 09175045715,rphsannexiichiefofhospital@gmail.com,1/1/2025,12/31/2025
+,170,REGION 4-A,Rizal,Binangonan,"Manila East Road, Darangan, Binangonan, Rizal",RIZAL PROVINCIAL HOSPITAL SYSTEM-MARGARITO DUAVIT MEMORIAL HOSPTIAL (FORMERLY BINANGONAN ANNEX),Government,LGU,General,Level 1,64,86889474/ 82563000/ 87271952,rphsbinangonan@gmail.com,1/1/2025,12/31/2025
+,171,REGION 4-A,Rizal,Cainta,"A. Bonifacio Ave., Cainta Municipal Compound, Brgy. Sto. Domingo, Cainta, Rizal",BAGONG CAINTA MUNICIPAL HOSPITAL,Government,LGU,General,Level 1,42,6962605/,caintamunicipalhospital_official@yahoo.com,1/1/2025,12/31/2025
+,172,REGION 4-A,Rizal,Morong,"Tomas Claudio St. Brgy. San Juan, Morong, Rizal",RIZAL PROVINCIAL HOSPITAL SYSTEM- MORONG,Government,LGU,General,Level 1,100,8653-1053/ 09178049402,rphsmorong@gmail.com,1/1/2025,12/31/2025
+,173,REGION 4-A,Rizal,Rodriguez,"Becco Road, Burgos, Rodriguez, Rizal","RPHS- CASIMIRO A. YNARES, SR. MEMORIAL HOSPITAL",Government,LGU,General,Level 1,56,8570-8261/ 09992297939,rphscaysmh2013@gmail.com,1/1/2025,12/31/2025
+,174,REGION 4-A,Rizal,Taytay,"Brgy. Dolores, Taytay, Rizal",RIZAL PROVINCIAL HOSPITAL SYSTEM - TAYTAY,Government,LGU,General,Level 1,42,8-7271952,rphstaytay@gmail.com,1/1/2025,12/31/2025
+,175,REGION 4-B,Marinduque,Boac,Brgy. Santol,MARINDUQUE PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,75,(042) 332-2490,damianreyesprov.hosp@gmail.com,1/1/2025,12/31/2025
+,176,REGION 4-B,Occidental Mindoro,Mamburao,Brgy. Taymaan,OCCIDENTAL MINDORO PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,75,(043) 711-1116,omph_mamburao@yahoo.com,1/1/2025,12/31/2025
+,177,REGION 4-B,Occidental Mindoro,Sablayan,"Sitio Macambang, Buenavista",SAN SEBASTIAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,n/a,sansebastiandistricthospital@yahoo.com,1/1/2025,12/31/2025
+,178,REGION 4-B,Occidental Mindoro,San Jose,"National Highway, Brgy. San Isidro",SAN JOSE DISTRICT HOSPITAL,Government,LGU,General,Level 1,80,n/a,san_josedistrict@yahoo.com,1/1/2025,12/31/2025
+,179,REGION 4-B,Oriental Mindoro,Calapan City,Brgy. Sta. Isabel,ORIENTAL MINDORO PROVINCIAL HOSPITAL,Government,LGU,General,Level 2,182,"(043) 288-5152
+(043) 288-2627
+(043)288-7661",a.omph@yahoo.com,1/1/2025,12/31/2025
+,180,REGION 4-B,Oriental Mindoro,Pinamalayan,"Strong Nautical Highway, Brgy. Papandayan",ORIENTAL MINDORO CENTRAL DISTRICT HOSPITAL,Government,LGU,General,Level 1,36,"(043) 284-3562
+(043) 284-3903",omcdh_hospital@yahoo.com,1/1/2025,12/31/2025
+,181,REGION 4-B,Oriental Mindoro,Roxas,Brgy. Odiong,ORIENTAL MINDORO SOUTHERN DISTRICT HOSPITAL,Government,LGU,General,Level 1,46,(043) 289-2280,omsdhroxas@gmail.com,1/1/2025,12/31/2025
+,182,REGION 4-B,Palawan,Aborlan,Ramon Magsaysay,ABORLAN MEDICARE HOSPITAL,Government,LGU,General,Level 1,50,n/a,aborlanmedicarehospital@gmail.com,1/1/2025,12/31/2025
+,183,REGION 4-B,Palawan,Bataraza,Marangas,BATARAZA DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,n/a,,5/27/2025,12/31/2025
+,184,REGION 4-B,Palawan,Brooke's Point,Brgy. Tubtub,SOUTHERN PALAWAN PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,50,n/a,spphpalawan2018@gmail.com,1/1/2025,12/31/2025
+,185,REGION 4-B,Palawan,Coron,Poblacion,CORON DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,n/a,,5/30/2025,12/31/2025
+,186,REGION 4-B,Palawan,Culion,Brgy. Tiza,CULION SANITARIUM AND GENERAL HOSPITAL,Government,DOH RETAINED,General,Level 2,200,n/a,csghadserv@gmail.com,1/1/2025,12/31/2025
+,187,REGION 4-B,Palawan,Narra,Brgy. Antipuluan,NARRA MUNICIPAL HOSPITAL,Government,LGU,General,Level 1,50,n/a,narramunicipalhospital1990@gmail.com,1/1/2025,12/31/2025
+,188,REGION 4-B,Palawan,Puerto Princesa City,"Wescom Road, Brgy. San Miguel",CAMP RICARTE STATION HOSPITAL,Government,AFP,General,Level 1,15,(048) 433-2311,cgarshwescom@yahoo.com,1/1/2025,12/31/2025
+,189,REGION 4-B,Palawan,Puerto Princesa City,"#220 Malvar St., Brgy. San Miguel",OSPITAL NG PALAWAN,Government,DOH RETAINED,General,Level 2,213,(048) 434-8339 loc 217,ospital.palawan@yahoo.com,1/1/2025,12/31/2025
+,190,REGION 4-B,Palawan,Taytay,"Sitio Arado Ii, Poblacion",NORTHERN PALAWAN PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,40,n/a,palawannorthern@gmail.com,1/1/2025,12/31/2025
+,191,REGION 4-B,Romblon,Odiongan,Brgy. Liwanag,ROMBLON PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,75,(042) 567-5151,odrph@yahoo.com,1/1/2025,12/31/2025
+,192,REGION 4-B,Romblon,Romblon,Brgy. Capaclan,ROMBLON DISTRICT HOSPITAL,Government,LGU,General,Level 1,35,n/a,rdhromblon@yahoo.com,1/1/2025,12/31/2025
+,193,REGION 5,Albay,Daraga,"Daraga, Albay",BICOL REGIONAL HOSPITAL AND MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,450,(052) 732-5555,brhmc.cares@gmail.com,1/1/2025,12/31/2025
+,194,REGION 5,Albay,Legazpi City,"Zone 9, Bitano, Legazpi City",LEGAZPI CITY HOSPITAL,Government,LGU,General,Level 1,75,9611787866,legazpicityhospital.ph@gmail.com,1/1/2025,12/31/2025
+,195,REGION 5,Albay,Ligao City,"Purok 2, Tuburan",JOSEFINA BELMONTE DURAN ALBAY PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,75,9452962595,jbdmh@gmail.com,1/1/2025,12/31/2025
+,196,REGION 5,Albay,Rapu-Rapu,"San Bautista St., Poblacion, Rapu-Rapu, Albay",RAPU-RAPU DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,9175584473,rapurapudistricthospital@gmail.com,1/1/2025,12/31/2025
+,197,REGION 5,Albay,Tabaco City,"Karangahan Boulevard, Tabaco City, Albay",DR. LORENZO T. ZIGA MEMORIAL DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,9399110310,zigamemorialdistricthospital@gmail.com,1/1/2025,12/31/2025
+,198,REGION 5,Camarines Norte,Daet,"Bagasbas Road, Daet, Camarines Norte",CAMARINES NORTE PROVINCIAL HOSPITAL,Government,LGU,General,Level 2,150,9480212783,cnphofficial@gmail.com,1/1/2025,12/31/2025
+,199,REGION 5,Camarines Norte,Labo,"Talobatib, Labo, Camarines Norte",LABO DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,"054-885-6939
+09176466899",ldh_hospital@yahoo.com,1/1/2025,12/31/2025
+,200,REGION 5,Camarines Sur,Cabusao,"San Pedro, Cabusao, Camarines Sur",BICOL REGION GENERAL HOSPITAL AND GERIATRIC MEDICAL CENTER,Government,DOH RETAINED,General,Level 2,200,9071372224,brghgmc@gmail.com,1/1/2025,12/31/2025
+,201,REGION 5,Camarines Sur,Libmanan,"Bagumbayan, Libmanan, Camarines Sur",LIBMANAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,9088978032,libmanan.admn2022@gmail.com,1/1/2025,12/31/2025
+,202,REGION 5,Camarines Sur,Naga City,"Concepcion Pequeña, Naga City",BICOL MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,800,(054) 472-6125,bmc.cao2022@gmail.com,1/1/2025,12/31/2025
+,203,REGION 5,Camarines Sur,Naga City,"Leon SA Aureus St., Balatas, Naga City",NAGA CITY GENERAL HOSPITAL,Government,LGU,General,Level 1,30,9190080678,nagacitygeneralhospital@gmail.com,1/1/2025,12/31/2025
+,204,REGION 5,Catanduanes,Pandan,"Vera Street, Napo, Pandan, Catanduanes",PANDAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,9489400932,pdhthehealer@gmail.com,1/1/2025,12/31/2025
+,205,REGION 5,Catanduanes,San Andres,"Belmonte, San Andres, Catanduanes",JUAN M. ALBERTO MEMORIAL DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,"052-7415776
+09501757436",jmamdh@yahoo.com.ph,1/1/2025,12/31/2025
+,206,REGION 5,Catanduanes,Viga,"San Vicente, Viga, Catanduanes",VIGA DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,9512118584,vigadistricthospital@yahoo.com,1/1/2025,12/31/2025
+,207,REGION 5,Catanduanes,Virac,"San Isidro Village, Virac, Catanduanes",EASTERN BICOL MEDICAL CENTER,Government,LGU,General,Level 2,84,9189673133,ebmc1718@gmail.com,1/1/2025,12/31/2025
+,208,REGION 5,Masbate,Cataingan,"Central Nautical Highway, Poblacion, Catangian, Masbate",CATAINGAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,"056-5820110/
+09464151259",catdistricthospital@gmail.com,1/1/2025,12/31/2025
+,209,REGION 5,Masbate,Masbate City,"Old Municipal Road, Barangay Kalipay, Masbate City",MASBATE PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,100,056-3332244,phomasbateoffice@gmail.com,1/1/2025,12/31/2025
+,210,REGION 5,Sorsogon,Castilla,"Sunflower St., Cumadcad, Castilla, Sorsogon",CASTILLA DISTRICT HOSPITAL (FORMERLY VICENTE L. PERALTA MEMORIAL DISTRICT HOSPITAL),Government,LGU,General,Level 1,25,9338228016,cdh@sorsogon.gov.ph,1/1/2025,12/31/2025
+,211,REGION 5,Sorsogon,Donsol,"Tres Marias Drive, Donsol Sorsogon",DONSOL DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,9611785529,"
+ddh@sorsogon.gov.ph",1/1/2025,12/31/2025
+,212,REGION 5,Sorsogon,Gubat,"Bonifacio St., Manook, Gubat, Sorsogon",GUBAT DISTRICT HOSPITAL (FORMERLY SALVADOR R. ENCINAS DISTRICT HOSPITAL),Government,LGU,General,Level 1,25,9476169184,"
+gdh@sorsogon.gov.ph",1/1/2025,12/31/2025
+,213,REGION 5,Sorsogon,Irosin,"Maharlika Highway, San Pedro, Irosin, Sorsogon",IROSIN DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,9988851077,"
+idh@sorsogon.gov.ph",1/1/2025,12/31/2025
+,214,REGION 5,Sorsogon,Macabog,"Macabog, Sorsogon City",SORSOGON PROVINCIAL HOSPITAL,Government,LGU,General,Level 2,100,9213514777,sph@sorsogon.gov.ph,1/1/2025,12/31/2025
+,215,REGION 6,Aklan,Kalibo,"Mabini Street, Brgy. Poblacion",DR. RAFAEL S. TUMBOKON MEMORIAL HOSPITAL,Government,LGU,General,Level 2,300,033-268-7062,"aklandrstmh@gmail.com , drstmh@yahoo.com.ph",1/1/2025,12/31/2025
+,216,REGION 6,Aklan,Malay,"Tirol Road, Barangay Balabag, Malay, Aklan",CIRIACO S. TIROL HOSPITAL,Government,LGU,General,Level 1,25,0917-152-0499,ciriacostirolhospital@yahoo.com,1/1/2025,12/31/2025
+,217,REGION 6,Antique,Culasi,Brgy. Centro Poblacion,CULASI DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,036-277-8241,cdhantique2014@gmail.com,1/1/2025,12/31/2025
+,218,REGION 6,Antique,San Jose de Buenavista,"T.A Fornier Street, Brgy. Atabay",ANGEL SALAZAR MEMORIAL GENERAL HOSPITAL,Government,LGU,General,Level 2,100,0936-54012058,asmgh19@yahoo.com,1/1/2025,12/31/2025
+,219,REGION 6,Antique,Sibalom,Catungan I,RAMON MAZA SR. MEMORIAL DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,036-545-0311,rmmsmdh@ymail.com,1/1/2025,12/31/2025
+,220,REGION 6,Capiz,Dao,Brgy. Bulucuan,SEN. GERARDO M. ROXAS MEMORIAL DISTRICT HOSPITAL,Government,LGU,General,Level 1,44,036-6580037,sgmrmdhdao@yhaoo.com.ph,1/1/2025,12/31/2025
+,221,REGION 6,Capiz,Mambusao,"Villareal Highway, Brgy. Poblacion Tabuc",MAMBUSAO DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,036-647-0641 loc 106,mambusaodistricthospital@gmail.com,1/1/2025,12/31/2025
+,222,REGION 6,Capiz,Pontevedra,"Maayon Jct Road, Bailan",BAILAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,036-634-0285,bdhospital_pc@yahoo.com,1/1/2025,12/31/2025
+,223,REGION 6,Capiz,Roxas City,"Arnaldo Boulevard, Inzo Arnaldo Village",ROXAS MEMORIAL PROVINCIAL HOSPITAL,Government,LGU,General,Level 2,147,"033-6210-823, 036-6210-030",rmphrxcapiz@yahoo.com,1/1/2025,12/31/2025
+,224,REGION 6,Guimaras,Jordan,Brgy. San Miguel,DR. CATALINO GALLEGO NAVA PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,75,033-581-2037,dcgnph@gmail.com,1/1/2025,12/31/2025
+,225,REGION 6,Iloilo,Alimodian,Brgy. Bancal,ALEOSAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,100,033-331-0602,aleosaniloilo@yahoo.com,1/1/2025,12/31/2025
+,226,REGION 6,Iloilo,Balasan,"Sitio Malbog, Brgy. Tingui-An",JESUS M. COLMENARES DISTRICT HOSPITAL,Government,LGU,General,Level 1,73,033-397-0879,jmcolmenares15@gmail.com,1/1/2025,12/31/2025
+,227,REGION 6,Iloilo,Barotac Nuevo,Brgy. Tabucan,DON JOSE S. MONFORT MEDICAL CENTER,Government,DOH RETAINED,General,Level 2,150,4/29/11789,djsmonfortmceh@yahoo.com.ph,1/1/2025,12/31/2025
+,228,REGION 6,Iloilo,Barotac Viejo,Barangay San Lucas,GOVERNOR NIEL D. TUPAS SR. DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,033-3620300,gndtsdh_5011@yahoo.com,1/1/2025,12/31/2025
+,229,REGION 6,Iloilo,Cabatuan,Brgy. Pungtod,RAMON TABIANA MEMORIAL DISTRICT HOSPITAL,Government,LGU,General,Level 1,75,033-522-8549,hospital.cabatuan.iloilo@gmail.com,1/1/2025,12/31/2025
+,230,REGION 6,Iloilo,Calinog,Brgy. Dalid,DR. RICARDO S. PROVIDO SR. MEMORIAL DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,033-330-0557,drspsmdhcalinog@yahoo.com.ph,1/1/2025,12/31/2025
+,231,REGION 6,Iloilo,Dumangas,Brgy. Ilaya 1St,RAMON D. DUREMDES DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,033-361-2229,ddh.dumangas@gmail.com,1/1/2025,12/31/2025
+,232,REGION 6,Iloilo,Guimbal,Garriel Street,REP. PEDRO G. TRONO MEMORIAL HOSPITAL,Government,LGU,General,Level 1,80,033-315-5172,rpgtmh@yahoo.com,1/1/2025,12/31/2025
+,233,REGION 6,Iloilo,Iloilo City,"E. Lopez St., Montinola, Jaro, Iloilo City",WEST VISAYAS STATE UNIVERSITY MEDICAL CENTER,Government,UNIVERSITY/SCHOOL,General,Level 3,300,(033) 320 2431,medcenter@wvsu.edu.ph,1/1/2025,12/31/2025
+,234,REGION 6,Iloilo,Iloilo City,"Q. Abeto Street, Mandurriao, Iloilo City",WESTERN VISAYAS MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,641,(033) 330-7700,akuwvmc2017@gmail.com,1/1/2025,12/31/2025
+,235,REGION 6,Iloilo,Janiuay,Brgy. Jibolo,"FEDERICO ROMAN TIRADOR SR., MEMORIAL DISTRICT HOSPITAL",Government,LGU,General,Level 1,50,033-531-8506,frtsmdh_06@yahoo.com,1/1/2025,12/31/2025
+,236,REGION 6,Iloilo,Lambunao,Poblacion Ilawod,DR. RICARDO Y. LADRIDO MEMORIAL HOSPITAL,Government,LGU,General,Level 1,50,033-330-0559,drylmhlambunao@yahoo.com,1/1/2025,12/31/2025
+,237,REGION 6,Iloilo,Passi City,Alfelor St,DON VALERIO PALMARES SR. MEMORIAL DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,033-367-1421,dvpsmdh2015@gmail.com,1/1/2025,12/31/2025
+,238,REGION 6,Iloilo,Pototan,Brgy. Rumbang,ILOILO PROVINCIAL HOSPITAL,Government,LGU,General,Level 2,175,033-5297496,iph_pototan@ymail.com,1/1/2025,12/31/2025
+,239,REGION 6,Iloilo,Santa Barbara,Brgy. Inangayan,WESTERN VISAYAS SANITARIUM AND GENERAL HOSPITAL,Government,DOH RETAINED,General,Level 1,100,033-523-9515,wvsanitarium1927@gmail.com,1/1/2025,12/31/2025
+,240,REGION 6,Iloilo,Sara,Brgy. Anoring,SARA DISTRICT HOSPITAL,Government,LGU,General,Level 1,74,033-392-0201,sara_dh@iloilo.gov.ph,1/1/2025,12/31/2025
+,241,REGION 7,Bohol,Carmen,"Poblacion Sur, Carmen, Bohol",CONG. SIMEON G. TORIBIO MEMORIAL HOSPITAL,Government,LGU,General,Level 1,40,(038) 417-3236; 0907-906-2536,carmenhospital68@yahoo.com,1/1/2025,12/31/2025
+,242,REGION 7,Bohol,Catigbian,"Poblacion West, Catigbian, Bohol",CATIGBIAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,(038) 416-0918; 0939-808-2436,cadishosp@yahoo.com.ph,1/1/2025,12/31/2025
+,243,REGION 7,Bohol,Inabanga,"National Highway, Cagay-an, Inabanga, Bohol",FRANCISCO DAGOHOY MUNICIPAL HOSPITAL,Government,LGU,General,Level 1,25,(038)512-9014/ 09154108528,fdmh85@yahoo.com,1/1/2025,12/31/2025
+,244,REGION 7,Bohol,Jagna,"Severo Salas St., Poblacion, Jagna, Bohol",TEODORO B. GALAGAR DISTRICT HOSPITAL,Government,LGU,General,Level 1,75,(038) 531-8107; 0942-804-4934,tbgdh10@yahoo.com; tbgdh2020@gmail.com,1/1/2025,12/31/2025
+,245,REGION 7,Bohol,Tagbilaran City,"Miguel Parras St., Tagbilaran City, Bohol",GOVERNOR CELESTINO GALLARES MEMORIAL MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,400,(038) 411-3185,gcgmh_bohol@yahoo.com.ph; gallares.bohol@gmail.com; gcgmhcao@gmail.com,1/1/2025,12/31/2025
+,246,REGION 7,Bohol,Talibon,"San Jose, Talibon, Bohol",GARCIA MEMORIAL PROVINCIAL HOSPITAL,Government,LGU,General,Level 2,75,(038) 412-3255; 0928-269-3241,gmph.bohol2012@gmail.com;,1/1/2025,12/31/2025
+,247,REGION 7,Bohol,Ubay,"Bood, Ubay, Bohol",DON EMILIO DEL VALLE MEMORIAL HOSPITAL,Government,DOH RETAINED,General,Level 2,200,(038) 518-8301,devmh.ubay@devmh.doh.gov.ph,1/1/2025,12/31/2025
+,248,REGION 7,Cebu,Balamban,"F. Pilapil St., Baliwagan, Balamban, Cebu",CEBU PROVINCIAL HOSPITAL - BALAMBAN,Government,LGU,General,Level 2,100,(032) 231-1875,provincialhospital.balamban@gmail.com,1/1/2025,12/31/2025
+,249,REGION 7,Cebu,Bantayan,"M.Y. Village, Ticad, Bantayan, Cebu",BANTAYAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,"(032)460-9330;
+09273656289 / 09178439455",bantayandistricthospital@gmail.com; bantayandistricthospital@yahoo.com,1/1/2025,12/31/2025
+,250,REGION 7,Cebu,Bogo City,"Taytayan Hills, Bogo City, Cebu",CEBU PROVINCIAL HOSPITAL (BOGO CITY),Government,LGU,General,Level 2,100,(032) 434-7204; 0917-833-4847,cebuprovincialhospitalbogocity@gmail.com,1/1/2025,12/31/2025
+,251,REGION 7,Cebu,Carcar City,"Baracca, Poblacion II, Carcar City, Cebu",CEBU PROVINCIAL HOSPITAL - CARCAR CITY,Government,LGU,General,Level 1,100,(032) 487-8952; 0917-842-5940,cphcarcar@yahoo.com,1/1/2025,12/31/2025
+,252,REGION 7,Cebu,Cebu City,"Camp Lapu-Lapu, Apas, Cebu City, Cebu",CAMP LAPU-LAPU STATION HOSPITAL,Government,AFP,General,Level 1,25,(032) 233-9942,centcomhosp@yahoo.com,1/1/2025,12/31/2025
+,253,REGION 7,Cebu,Cebu City,"N. Bacalso Ave., Cor. Panganiban St., Pahina Central, Cebu City, Cebu",CEBU CITY MEDICAL CENTER,Government,LGU,General,Level 2,200,(032) 254-0517; 0917-658-7488,cebucitymedicalcenterofficial@yahoo.com,1/1/2025,12/31/2025
+,254,REGION 7,Cebu,Cebu City,"Basak, San Nicolas, Cebu City, Cebu",SAINT ANTHONY MOTHER AND CHILD HOSPITAL,Government,DOH RETAINED,General,Level 2,100,(032) 261-9989 loc. 5106,mcc.sec@samch.doh.gov.ph,1/1/2025,12/31/2025
+,255,REGION 7,Cebu,Cebu City,"B. Rodriguez St., Sambag II, Cebu City, Cebu",VICENTE SOTTO MEMORIAL MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,1500,(032) 344-7756; 253-9891-99,mcc@vsmmc.doh.gov.ph,1/1/2025,12/31/2025
+,256,REGION 7,Cebu,Danao City,"National Road, Poblacion, Danao City, Cebu",CEBU PROVINCIAL HOSPITAL (DANAO CITY),Government,LGU,General,Level 1,100,(032) 262-0816 loc. 109-110; 0922-390-8803,ddhospital1960@yahoo.com,1/1/2025,12/31/2025
+,257,REGION 7,Cebu,Lapu-Lapu City,"A. Tumulak St., Gun-ob, Lapu-Lapu City, Cebu",LAPU-LAPU CITY HOSPITAL,Government,LGU,General,Level 1,50,(032) 341-5892; 0932-681-1504,lapulapucityhospital@yahoo.com,1/1/2025,12/31/2025
+,258,REGION 7,Cebu,Mandaue City,"Northroad, Jagobiao, Mandaue City, Cebu",EVERSLEY CHILDS SANITARIUM AND GENERAL HOSPITAL,Government,DOH RETAINED,General,Level 2,200,(032) 346-2468,mcc@ecsgh.doh.gov.ph,1/1/2025,12/31/2025
+,259,REGION 7,Cebu,Mandaue City,"Don Andres Soriano Avenue, Centro, Mandaue City, Cebu",MANDAUE CITY HOSPITAL,Government,LGU,General,Level 1,25,(032)253-3906/ 09310002693,mcityhospital@yahoo.com; mch@mandauecity.gov.ph;,1/1/2025,12/31/2025
+,260,REGION 7,Cebu,San Francisco,"Northern Poblacion, San Francisco, Cebu",RICARDO L. MANINGO MEMORIAL HOSPITAL,Government,LGU,General,Level 1,25,(032)514-3327,ricardo_maningo@yahoo.com,1/1/2025,12/31/2025
+,261,REGION 7,Cebu,Talisay City,"San Isidro, Talisay City, Cebu",CEBU SOUTH MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,201,(032) 273-3713; (032) 265-5986,mcc@csmc.doh.gov.ph,1/1/2025,12/31/2025
+,262,REGION 7,Cebu,Toledo CIty,"Magsaysay Hills, Poblacion, Toledo City, Cebu",TOLEDO CITY GENERAL HOSPITAL,Government,LGU,General,Level 1,50,(032) 466-1900; 467-9565; 0917-728-9415,tcghofficial.gov@gmail.com,1/1/2025,12/31/2025
+,263,REGION 8,Biliran,Naval,"Castin St., Sto. Nino, Naval, Biliran",BILIRAN PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,120,9173085299,bph.lar@gmail.com,1/1/2025,12/31/2025
+,264,REGION 8,Eastern Samar,Borongan City,"Real St., Songco, Borongan, Eastern Samar",EASTERN SAMAR PROVINCIAL HOSPITAL,Government,LGU,General,Level 2,100,9661823373,esph_esamar@yahoo.com,1/1/2025,12/31/2025
+,265,REGION 8,Eastern Samar,Guiuan,"Brgy. Cantahay, Guiuan, Eastern Samar",FELIPE ABRIGO MEMORIAL HOSPITAL,Government,LGU,General,Level 1,12,9178010452,famh_guiuan@yahoo.com,1/1/2025,12/31/2025
+,266,REGION 8,Leyte,Abuyog,"Maharlika Highway, Bunga, Abuyog, Leyte",ABUYOG DISTRICT HOSPITAL,Government,LGU,General,Level 1,30,9778213692,adh.leyte@yahoo.com,1/1/2025,12/31/2025
+,267,REGION 8,Leyte,Baybay City,"Diversion Road 1, Brgy. Cogon, Baybay City, Leyte",BAYBAY CITY IMMACULATE CONCEPTION HOSPITAL,Government,LGU,General,Level 1,50,9757707682,wlph6521@gmail.com,1/1/2025,12/31/2025
+,268,REGION 8,Leyte,Burauen,"Camansi Dist. I, Burauen, Leyte",BURAUEN DISTRICT HOSPITAL,Government,LGU,General,Level 1,30,9219359656,bdhphilhealthsw@gmail.com / francisangeloalmo@gmail.com,1/1/2025,12/31/2025
+,269,REGION 8,Leyte,Carigara,"Brgy. Barugohay Norte, Carigara, Leyte",CARIGARA DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,9163396432,carigaradh@yahoo.com,1/1/2025,12/31/2025
+,270,REGION 8,Leyte,Hilongos,"C.V. Alcuino, Central Barangay, Hilongos, Leyte",HILONGOS DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,9954783920,hdhcares@gmail.com,1/1/2025,12/31/2025
+,271,REGION 8,Leyte,Ormoc City,"Brgy, Cogon, Ormoc City, Leyte",ORMOC DISTRICT HOSPITAL,Government,LGU,General,Level 1,100,9255038575,ormocdistrict.hospital@yahoo.com,1/1/2025,12/31/2025
+,272,REGION 8,Leyte,Palo,"Brgy. Naga-Naga, Palo, Leyte",GOV. BENJAMIN T. ROMUALDEZ GENERAL HOSPITAL & SCHISTOSOMIASIS CENTER,Government,DOH RETAINED,General,Level 1,100,9981538188,gbtrghsc.mcc@gmail.com,1/1/2025,12/31/2025
+,273,REGION 8,Leyte,Palo,"Brgy. Candahug, Palo, Leyte",LEYTE PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,50,9177260862,leyteprov.hospital@gmail.com,1/1/2025,12/31/2025
+,274,REGION 8,Leyte,Tacloban City,"Barangay 93 Bagacay, Tacloban City, Eastern Visayas",EASTERN VISAYAS MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,629,(053) 888-2735,evrmccao@gmail.com,1/1/2025,12/31/2025
+,275,REGION 8,Leyte,Tacloban City,"Brgy. 80, Marasbaras, Tacloban City",TACLOBAN CITY HOSPITAL,Government,LGU,General,Level 1,25,9273794685,tchopd16@yahoo.com,1/1/2025,12/31/2025
+,276,REGION 8,Northern Samar,Allen,"Hospital Drive, Kinabranan Zone Ii, Allen, Northern Samar",ALLEN DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,9171667765,adhallen61@gmail.com,1/1/2025,12/31/2025
+,277,REGION 8,Northern Samar,Catarman,"Balite St., Brgy. Acacia, Catarman, Northern Samar",NORTHERN SAMAR PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,150,9194709978,nsph_1958@yahoo.com,1/1/2025,12/31/2025
+,278,REGION 8,Samar,Basey,"San Miguel St., Brgy. Loyo, Basey, Samar",BASEY DISTRICT HOSPITAL,Government,LGU,General,Level 1,35,9159142014,baseydistricthospital@yahoo.com,1/1/2025,12/31/2025
+,279,REGION 8,Samar,Calbayog City,"Burgos St., East Awang, Calbayog, Samar",CALBAYOG DISTRICT HOSPITAL,Government,LGU,General,Level 1,75,9177901587,calbayog_district_hospital@yahoo.com,1/1/2025,12/31/2025
+,280,REGION 8,Samar,Catbalogan City,"Brgy. 07, Catbalogan, Samar",SAMAR PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,100,9269806501,samarprovincialhospital@gmail.com.ph,1/1/2025,12/31/2025
+,281,REGION 8,Southern Leyte,Anahawan,"Brgy. Poblacion, Anahawan, Southern Leyte",ANAHAWAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,"9458211513
+09177778965",anahawandistricthospital@gmail.com,1/1/2025,12/31/2025
+,282,REGION 8,Southern Leyte,Maasin City,"Barangay Dongon, Maasin City, Southern Leyte",SALVACION OPPUS YNIGUEZ MEMORIAL PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,100,9480114659,records.soymph@gmail.com,1/1/2025,12/31/2025
+,283,REGION 8,Southern Leyte,Sogod,"Osmena St., Zone 1, Sogod, Southern Leyte",SOGOD DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,9175064570,sogoddistricthospital@gmail.com,1/1/2025,12/31/2025
+,284,REGION 9,Basilan,Isabela City,Binuangan,BASILAN MEDICAL CENTER,Government,DOH RETAINED,General,Level 2,129,basgen7300@gmail.com,1/1/2025,12/31/2025,09-0064-25-H2-1
+,285,REGION 9,Sulu,Jolo,"Scott Road, Asturias 1",SULU PROVINCIAL HOSPITAL,Government,LGU,General,Level 2,100,iphosulu@gmail.com,5/26/2025,12/31/2025,09-0070-25-H2-1
+,286,REGION 9,Sulu,Jolo,Upper San Raymundo,SULU SANITARIUM AND GENERAL HOSPITAL,Government,DOH RETAINED,General,Level 1,75,sulusanitarium@ymail.com,1/1/2025,12/31/2025,09-0045-25-H1-1
+,287,REGION 9,Zamboanga del Norte,Dapitan City,Lawaan,DR. JOSE RIZAL MEMORIAL HOSPITAL,Government,DOH RETAINED,General,Level 2,200,dohdjrmh@gmail.com,1/1/2025,12/31/2025,09-0029-25-H2-2
+,288,REGION 9,Zamboanga del Norte,Dipolog City,"Circumferential Road, Biasong",CORAZON C. AQUINO HOSPITAL,Government,LGU,General,Level 1,50,ccah.dipologcity@gmail.com,1/1/2025,1/31/2025,09-0031-25-H1-1
+,289,REGION 9,Zamboanga del Norte,Dipolog City,Sicayab,ZAMBOANGA DEL NORTE MEDICAL CENTER,Government,LGU,General,Level 1,146,zanortemed@gmail.com,1/1/2025,12/31/2025,09-0025-25-H2-2
+,290,REGION 9,Zamboanga del Norte,Siocon,"Campaner St., Manaol",CONSTANTINO SORIANO SR. HOSPITAL,Government,LGU,General,Level 1,18,siocondistricthospital@yahoo.com,1/1/2025,12/31/2025,09-0056-25-I-1
+,291,REGION 9,Zamboanga del Sur,Margosatubig,Poblacion,MARGOSATUBIG REGIONAL HOSPITAL,Government,DOH RETAINED,General,Level 2,100,mrh_gov@yahoo.com.ph,1/1/2025,12/31/2025,09-0046-25-H2-1
+,292,REGION 9,Zamboanga del Sur,Pagadian City,Dao,ZAMBOANGA DEL SUR MEDICAL CENTER,Government,LGU,General,Level 2,100,zdsmc@yahoo.com,1/1/2025,12/31/2025,09-0055-25-H2-1
+,293,REGION 9,Zamboanga del Sur,Zamboanga City,Labuan,LABUAN GENERAL HOSPITAL,Government,DOH RETAINED,General,Level 1,51,lphchd@yahoo.com,1/1/2025,12/31/2025,09-0048-25-H1-1
+,294,REGION 9,Zamboanga del Sur,Zamboanga City,"Dr. Evangelista St., Zamboanga City",ZAMBOANGA CITY MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,400,mc-chief@zcmc.doh.gov.ph,1/1/2025,12/31/2025,DOH010425
+,295,REGION 9,Zamboanga del Sur,Zamboanga City,Pasobolong,ZAMBOANGA REGIONAL MEDICAL CENTER,Government,DOH RETAINED,General,Level 2,100,mcs.hrmo@gmail.com,1/1/2025,12/31/2025,09-0065-25-H2-1
+,296,REGION 9,Zamboanga Sibugay,Ipil,"P/Gumamela, Tenan",DR. GEORGE TOCAO HOFER MEDICAL CENTER,Government,LGU,General,Level 1,100,georgethofermedicalcenter@gmail.com,1/1/2025,12/31/2025,09-0015-25-H1-1
+,297,REGION 10,Bukidnon,Kibawe,"C.M. Recto St., Palma",BUKIDNON PROVINCIAL HOSPITAL - KIBAWE,Government,LGU,General,Level 1,100,(088)314-1066,bphkibawe@yahoo.com,1/1/2025,12/31/2025
+,298,REGION 10,Bukidnon,Malaybalay City,Casisang,BUKIDNON PROVINCIAL MEDICAL CENTER - MALAYBALAY CITY,Government,LGU,General,Level 2,150,(088)813-7380 / 09176269737,bpmc.malaybalay@yahoo.com,1/1/2025,12/31/2025
+,299,REGION 10,Bukidnon,Manolo Fortich,San Miguel,BUKIDNON PROVINCIAL HOSPITAL - MANOLO FORTICH,Government,LGU,General,Level 1,68,(088)813-3055,bphmanolo@gmail.com,1/1/2025,12/31/2025
+,300,REGION 10,Bukidnon,Maramag,,BUKIDNON PROVINCIAL HOSPITAL - MARAMAG,Government,LGU,General,Level 2,130,(088)828-1962 / 09173055020,bph_maramag@yahoo.com,1/1/2025,12/31/2025
+,301,REGION 10,Camiguin,Mambajao,"Lakas, Poblacion",CAMIGUIN GENERAL HOSPITAL,Government,DOH RETAINED,General,Level 1,105,(088)387-0535 / telefax (088)387-1216 / 09261495580,camgenhospital@yahoo.com / camgenhospital@gmail.com,1/1/2025,12/31/2025
+,302,REGION 10,Lanao del Norte,Baroy,Lower Sagadan,LANAO DEL NORTE PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,100,(063)224-2948 / 09054948714,lnph2018@gmail.com,1/1/2025,12/31/2025
+,303,REGION 10,Lanao del Norte,Iligan City,"Quezon Avenue Extension, Palao",GREGORIO T. LLUCH MEMORIAL HOSPITAL,Government,LGU,General,Level 1,119,telefax (063)221-6775,gtlmh@ymail.com / lgu.gtlmh@gmail.com,1/1/2025,12/31/2025
+,304,REGION 10,Lanao del Norte,Kapatagan,Maranding Annex,KAPATAGAN PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,100,(063)227-9522,kapataganprovincialhospital@gmail.com,1/1/2025,12/31/2025
+,305,REGION 10,Lanao del Norte,Kolambugan,Austin Heights,KOLAMBUGAN PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,60,(063)302-3982 / 09062786042,kolph@outlook.com / kolambuganprovincial@gmail.com,1/1/2025,12/31/2025
+,306,REGION 10,Lanao del Sur,Marawi City,"Barangay Datu Saber, 9700 Marawi City, Lanao Del Sur",AMAI PAKPAK MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,438,(063) 876 0001,info@apmc.doh.gov.ph,1/1/2025,12/31/2025
+,307,REGION 10,Misamis Occidental,Calamba,Purok 4 Bunawan,CALAMBA DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,(088)564-0397 / 09308180578,calambadistrict@gmail.com,1/1/2025,12/31/2025
+,308,REGION 10,Misamis Occidental,Oroquieta City,"Independence St., Lower Langcangan",MISAMIS OCCIDENTAL PROVINCIAL HOSPITAL,Government,LGU,General,Level 2,159,(088)531-2242 / 531-2243 / 09367360217,office.moph@gmail.com / moprovincialhospital@gmail.com,1/1/2025,12/31/2025
+,309,REGION 10,Misamis Occidental,Ozamiz City,Maningcol,MAYOR HILARION A. RAMIRO SR. MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,550,(088)521-0440 /(088)521-0022,mharsmc@mharsmc.doh.gov.ph,1/1/2025,12/31/2025
+,310,REGION 10,Misamis Occidental,Tangub City,"Fertig St., Mantic",DOÑA MARIA D. TAN MEMORIAL HOSPITAL,Government,LGU,General,Level 1,50,(088)545-0172 / 09067509507 / 09177718971,dmdtmh_mantic@yahoo.com,1/1/2025,12/31/2025
+,311,REGION 10,Misamis Oriental,Balingasag,"Rizal - Delmar St., Barangay 3",MISAMIS ORIENTAL PROVINCIAL HOSPITAL - BALINGASAG,Government,LGU,General,Level 1,50,(088)3335413,misorbalingasag@gmail.com,1/1/2025,12/31/2025
+,312,REGION 10,Misamis Oriental,Cagayan de Oro City,"Camp Evangelista, Patag","CAMP EVANGELISTA STATION HOSPITAL, 4ID, PA",Government,LGU,General,Level 1,50,0888800608 / 09171409048,cesh_phic4id@yahoo.com / cesh_4id@yahoo.com,1/1/2025,12/31/2025
+,313,REGION 10,Misamis Oriental,Cagayan de Oro City,"J.V. Seriña St., Carmen",J.R. BORJA GENERAL HOSPITAL,Government,LGU,General,Level 2,250,9177937344,jrborjagenhosp@gmail.com,1/1/2025,12/31/2025
+,314,REGION 10,Misamis Oriental,Cagayan de Oro City,"Capitol Compound, Cagayan De Oro City",NORTHERN MINDANAO MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,600,(08822) 72-63-62,nmmc_cdo@yahoo.com,1/1/2025,12/31/2025
+,315,REGION 10,Misamis Oriental,Gingoog City,Doña Graciana St.,MISAMIS ORIENTAL PROVINCIAL HOSPITAL - GINGOOG,Government,LGU,General,Level 1,50,9177775962,misorph_gingoog@yahoo.com / misorgingoog@gmail.com,1/1/2025,12/31/2025
+,316,REGION 10,Misamis Oriental,Initao,"Codilla St., Poblacion",MISAMIS ORIENTAL PROVINCIAL HOSPITAL - INITAO,Government,LGU,General,Level 1,25,0888827248 / 09173289308,misorphinitao@yahoo.com / misorphinitao@gmail.com,1/1/2025,12/31/2025
+,317,REGION 10,Misamis Oriental,Manticao,Poblacion,MISAMIS ORIENTAL PROVINCIAL HOSPITAL - MANTICAO,Government,LGU,General,Level 1,25,9350267612,manticaomisorph@gmail.com / moph.manticao@misamisoriental.gov.ph,1/1/2025,12/31/2025
+,318,REGION 10,Misamis Oriental,Tagoloan,"Zone 12, Poblacion",ST. PAUL HOSPITAL,Government,LGU,General,Level 1,28,(088)890-4522 / 09922573302 / 09384753191,st.paultagoloan@gmail.com,1/1/2025,12/31/2025
+,319,REGION 10,Misamis Oriental,Talisayan,"National Highway, Mintabon",MISAMIS ORIENTAL PROVINCIAL HOSPITAL - TALISAYAN,Government,LGU,General,Level 1,25,9171394887,misortalisayan@gmail.com,1/1/2025,12/31/2025
+,320,REGION 11,Davao de Oro,Laak,"Purok 4, Pob. Laak, Davao De Oro",DAVAO DE ORO PROVINCIAL HOSPITAL - LAAK,Government,LGU,General,Level 1,40,9688674054,ddoph_laakhospital@yahoo.com,1/1/2025,12/31/2025
+,321,REGION 11,Davao de Oro,Maragusan,"Talisay St., Pob. Maragusan, Davao de Oro",DAVAO DE ORO PROVINCIAL HOSPITAL- MARAGUSAN,Government,LGU,General,Level 1,40,,mmh_comval@yahoo.com; ddophmaragusan@gmail.com,1/1/2025,12/31/2025
+,322,REGION 11,Davao de Oro,Montevista,"Km. 104 Bankerohan Sur, Montevista",DAVAO DE ORO PROVINCIAL HOSPITAL - MONTEVISTA,Government,LGU,General,Level 1,160,,cvphcvph@yahoo.com,1/1/2025,12/31/2025
+,323,REGION 11,Davao de Oro,Pantukan,"Townsite Pantukan, Davao De Oro",DAVAO DE ORO PROVINCIAL HOSPITAL - PANTUKAN,Government,LGU,General,Level 1,100,084-372-0335,pdhcvphpantukan@yahoo.com.ph,1/1/2025,12/31/2025
+,324,REGION 11,Davao del Norte,Carmen,"Brgy. Ising, Carmen, Dvo Norte",DAVAO DEL NORTE HOSPITAL-CARMEN ZONE,Government,LGU,General,Level 1,50,084-628-6592,ddnhospcz@yahoo.com,1/1/2025,12/31/2025
+,325,REGION 11,Davao del Norte,Kapalong,"Quezon St. Maniki Kapalong, Dvo. Norte",DAVAO DEL NORTE HOSPITAL-KAPALONG ZONE,Government,LGU,General,Level 1,75,084-371-0468,kapalongdistricthospital@yahoo.com,1/1/2025,12/31/2025
+,326,REGION 11,Davao del Norte,Samal City,"Datu Taganiog St., Peñaplata, Igacos",DAVAO DEL NORTE HOSPITAL-IGACOS ZONE,Government,LGU,General,Level 1,50,084-286-0120,ddnhigacoszone@gmail.com,1/1/2025,12/31/2025
+,327,REGION 11,Davao del Norte,Tagum City,"Apokon, Tagum City",DAVAO REGIONAL MED. CENTER,Government,DOH RETAINED,General,Level 3,600,084-400-3347/4003050,cao@drmc.doh.gov.p,1/1/2025,12/31/2025
+,328,REGION 11,Davao del Sur,Davao City,"J.P. Laurel Ave., Bajada",SOUTHERN PHILIPPINES MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,1200,082-2272731,coh.spmc@gmail.com,1/1/2025,12/31/2025
+,329,REGION 11,Davao del Sur,Digos City,"Lapu-Lapu St., Digos City",DAVAO DEL SUR PROVINCIAL HOSPITAL,Government,LGU,General,Level 2,100,,,1/1/2025,12/31/2025
+,330,REGION 11,Davao Occidental,Malita,"Lacaron, Malita, Davao Occidental",DAVAO OCCIDENTAL GENERAL HOSPITAL,Government,DOH RETAINED,General,Level 1,28,,,1/1/2025,12/31/2025
+,331,REGION 11,Davao Occidental,Malita,"National Highway, Malita, Dvo Occidental",MALITA WOMEN'S AND CHILDREN WELLNESS CENTER (FORMERLY: MALITA DITSTRICT HOSPITAL),Government,LGU,General,Level 1,18,,mdhdavaooccidental.phic.section@gmail.com,1/1/2025,12/31/2025
+,332,REGION 11,Davao Oriental,Mati City,"Mati City, Davao Oriental",DAVAO ORIENTAL PROVINCIAL MEDICAL CENTER,Government,LGU,General,Level 2,100,087-3883420,dopmcmati1971@gmail.com,1/1/2025,12/31/2025
+,333,REGION 12,General Santos,General Santos City,"E. Fernandez Street, Barangay Lagao",DR. JORGE P. ROYECA CITY HOSPITAL,Government,LGU,General,Level 2,200,,,1/1/2025,12/31/2025
+,334,REGION 12,Maguindanao,Sultan Kudarat,"Ungap, Sultan Kudarat",COTABATO SANITARIUM AND GENERAL HOSPITAL,Government,DOH RETAINED,General,Level 2,200,9956550149,cotsan1936@gmail.com,1/1/2025,12/31/2025
+,335,REGION 12,Sarangani,Alabel,"Capitol Compound, Maribulan",SARANGANI PROVINCIAL HOSPITAL,Government,LGU,General,Level 2,75,9171197590,sph_sarangani@gmail.com,1/1/2025,12/31/2025
+,336,REGION 12,Sarangani,Glan,D. Cania Poblacion,SARANGANI PROVINCIAL HOSPITAL-GLAN,Government,LGU,General,Level 1,30,9175027062,gmch2009@yahoo.com,1/1/2025,12/31/2025
+,337,REGION 12,Sarangani,Kiamba,"Datu Dani St., Poblacion",DR. CORNELIO T. MARTINEZ SR. MEMORIAL HOSPITAL,Government,LGU,General,Level 1,50,9386793712,kdh_kiamba@yahoo.com,1/1/2025,12/31/2025
+,338,REGION 12,Sarangani,Malungon,Purok Maliwanag Poblacion,SARANGANI PROVINCIAL HOSPITAL-MALUNGON,Government,LGU,General,Level 1,25,9171121794,sphmalungon@gmail.com,1/1/2025,12/31/2025
+,339,REGION 12,North Cotabato,Aleosan,"Dualing, Aleosan",ALEOSAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,9382481624,aleosandistrict_hospital@yahoo.com,1/1/2025,12/31/2025
+,340,REGION 12,North Cotabato,Carmen,Rosal St. Poblacion,CARMEN MUNICIPAL HOSPITAL,Government,LGU,General,Level 1,24,9104625549,carmenmunicipalhospital@gmail.com,1/1/2025,12/31/2025
+,341,REGION 12,North Cotabato,Cotabato City,"Sinsuat Avenue, Cotabato City",COTABATO REGIONAL AND MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,375,(064) 421-2340.,crmc_12@yahoo.com,1/1/2025,12/31/2025
+,342,REGION 12,North Cotabato,Kabacan,"Usm Compound, Poblacion, Kabacan, Cotabato",UNIVERSITY OF SOUTHERN MINDANAO HOSPITAL,Government,UNIVERSITY/SCHOOL,General,Level 1,25,9319765038,usmhospital1979@yahoo.com,1/1/2025,12/31/2025
+,343,REGION 12,North Cotabato,Kidapawan City,Amas,COTABATO PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,100,9192066257,cotabato.prov.hospital@gmail.com,1/1/2025,12/31/2025
+,344,REGION 12,North Cotabato,M'lang,"Rizal Street, Poblacion 8, Mlang",MLANG DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,9389637711,mlangdistrict@yahoo.com,1/1/2025,12/31/2025
+,345,REGION 12,North Cotabato,Midsayap,Roosevelt Street Poblacion 4,DR. AMADO B. DIAZ PROVINCIAL FOUNDATION HOSPITAL,Government,LGU,General,Level 1,50,9187303249,dadpfh@yahoo.com,1/1/2025,12/31/2025
+,346,REGION 12,South Cotabato,Koronadal City,"Aguinaldo Street, Koronadal City",SOUTH COTABATO PROVINCIAL HOSPITAL,Government,LGU,General,Level 2,200,,cphch2021@gmail.com,1/1/2025,12/31/2025
+,347,REGION 12,South Cotabato,Norala,M.Roxas St. Corner Boston St. Poblacion,NORALA DISTRICT HOSPITAL,Government,LGU,General,Level 1,100,9394922020,noraladistrict@gmail.com,1/1/2025,12/31/2025
+,348,REGION 12,South Cotabato,Polomolok,"National Highway, Barangay Pagalungan",POLOMOLOK GENERAL HOSPITAL,Government,LGU,General,Level 1,41,9620414115,polgenhos2024@gmail.com,1/1/2025,12/31/2025
+,349,REGION 12,South Cotabato,Surallah,"Crossing Curva, Brgy. Dajay, Surallah",SOCCSKSARGEN GENERAL HOSPITAL,Government,DOH RETAINED,General,Level 1,75,9176792960,sghregionxii@gmail.com,1/1/2025,12/31/2025
+,350,REGION 12,Sultan Kudarat,Isulan,"National Highway, Kalawag 2, District I Isulan, Sultan Kudarat",SULTAN KUDARAT PROVINCIAL HOSPITAL,Government,LGU,General,Level 2,200,(064) 201 3033,,1/1/2025,12/31/2025
+,351,REGION 12,Sultan Kudarat,Lebak,"Sitio Masurot, Brgy. Kinudalan",SULTAN KUDARAT DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,9272427263,skdhlebak@gmail.com,1/1/2025,12/31/2025
+,352,REGION 13,Agusan del Norte,Butuan City,"Brgy. Libertad, Butuan City",AGUSAN DEL NORTE PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,100,8173390,adnph@yahoo.com,1/1/2025,12/31/2025
+,353,REGION 13,Agusan del Norte,Butuan City,"Brgy. Tiniwisan, Butuan City",BUTUAN MEDICAL CENTER,Government,LGU,General,Level 2,150,815-2648,,1/1/2025,12/31/2025
+,354,REGION 13,Agusan del Sur,Bunawan,"Bunawan, Agusan Del Sur",VALENTINA GALIDO PLAZA MEMORIAL HOSPITAL,Government,LGU,General,Level 1,50,,vgpmh.official@gmail.com,1/1/2025,12/31/2025
+,355,REGION 13,Agusan del Sur,Prosperidad,"Prosperidad, Agusan Del Sur",D.O. PLAZA MEMORIAL HOSPITAL,Government,LGU,General,Level 2,100,343-74-41/ 343-74-20/343-73-43,dopmhagusan@gmail.com,1/1/2025,12/31/2025
+,356,REGION 13,Agusan del Sur,Talacogon,"San Isidro, Talacogon, Agusan Del Sur",TALACOGON DISTRICT HOSPITAL,Government,LGU,General,Level 1,30,9193638951,tdh_talacogonads@yahoo.com,1/2/2025,12/31/2025
+,357,REGION 13,Surigao del Norte,Dapa,BARANGAY 1 (POB.),SIARGAO ISLAND MEDICAL CENTER,Government,DOH RETAINED,General,Level 1,50,(0950) 536 2182,siargaodh@gmail.com,1/10/2025,12/31/2025
+,358,REGION 13,Surigao del Norte,Placer,"Brgy. Sta. Cruz, Placer, Surigao Del Norte",SURIGAO DEL NORTE PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,50,,,1/1/2025,12/31/2025
+,359,REGION 13,Surigao del Norte,Surigao City,Surigao City,CARAGA REGIONAL HOSPITAL,Government,DOH RETAINED,General,Level 2,300,826-24-59/ 826-31-57/826-1748,caragahospital@gmail.com,1/1/2025,12/31/2025
+,360,REGION 13,Surigao del Sur,Bislig City,"National Highway, Bislig City",BISLIG DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,853-60-08,bdh_bislig@yahoo.com,1/1/2025,12/31/2025
+,361,REGION 13,Surigao del Sur,Hinatuan,"Hinatuan, Surigao Del Sur",HINATUAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,853-51-12/ 52-46,hinatuandistricthospital74@gmail.com,1/1/2025,12/31/2025
+,362,REGION 13,Surigao del Sur,Lianga,"Lianga, Surigao Del Sur",LIANGA DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,853-52-22,liangadistricthospital@yahoo.com,1/1/2025,12/31/2025
+,363,REGION 13,Surigao del Sur,Madrid,"Madrid, Surigao Del Sur",MADRID DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,086-213-4111,Madrid_dh@yahoo.com,1/1/2025,12/31/2025
+,364,REGION 13,Surigao del Sur,Marihatag,"Marihatag, Surigao Del Sur",MARIHATAG DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,9328895376,mdhmsds@gmail.com,1/1/2025,12/31/2025
+,365,REGION 13,Surigao del Sur,Tandag City,"Tandag, Surigao Del Sur",ADELA SERRA TY MEMORIAL MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,200,211-37-00,,1/1/2025,12/31/2025
+,366,NCR,Metro Manila,Caloocan City,"450 A. Mabini St., Caloocan City",CALOOCAN CITY MEDICAL CENTER,Government,LGU,General,Level 1,82,5318-3100/09178835857,ccmc.2013@yahoo.com,1/1/2025,12/31/2025
+,367,NCR,Metro Manila,Caloocan City,"Camarin Road, Brgy. 177, Caloocan City",CALOOCAN CITY NORTH MEDICAL CENTER,Government,LGU,General,Level 1,50,82823397 / 09190052829,ccnmc16@gmail.com,1/1/2025,12/31/2025
+,368,NCR,Metro Manila,Caloocan City,"St. Joseph Avenue (Dr. Uyguanco Street), Tala, Caloocan City",DR. JOSE N. RODRIGUEZ MEMORIAL HOSPITAL AND SANITARIUM,Government,DOH RETAINED,General,Level 3,459,(02) 8294 2571,djnrmhs.hfdu@gmail.com,1/1/2025,12/31/2025
+,369,NCR,Metro Manila,Las Piñas City,"Bernabe Compound, Pulanglupa, Las Piñas City",LAS PIÑAS GENERAL HOSPITAL & SATELLITE TRAUMA CENTER,Government,DOH RETAINED,General,Level 3,418,8730556,omcc@lpghstc.doh.gov.ph,1/1/2025,12/31/2025
+,370,NCR,Metro Manila,Makati City,"Sampaguita St. cor. Gumamela St., Brgy. Pembo,
+Taguig City",OSPITAL NG MAKATI,Government,LGU,General,Level 3,300,(02) 8882 6316,osmakqualityassurance@yahoo.com.ph,1/1/2025,12/31/2025
+,371,NCR,Metro Manila,Malabon City,"F. Sevilla Boulevard, Tañong, Malabon City",OSPITAL NG MALABON,Government,LGU,General,Level 1,34,(02) 85188602,ospitalngmalabon@yahoo.com,1/1/2025,12/31/2025
+,372,NCR,Metro Manila,Malabon City,"25 O. Reyes St., Brgy. Santulan, Malabon City",SAN LORENZO RUIZ GENERAL HOSPITAL,Government,DOH RETAINED,General,Level 1,10,82944853,slrwh_malabon@yahoo.com,1/1/2025,12/31/2025
+,373,NCR,Metro Manila,Mandaluyong City,"C3 Road, F. Martinez Ave., Addition Hills, 1550 Mandaluyong City",MANDALUYONG CITY MEDICAL CENTER,Government,LGU,General,Level 2,200,85395500,mcmc.mandaluyong@gmail.com,1/1/2025,12/31/2025
+,374,NCR,Metro Manila,Mandaluyong City,"#9 De Febrero St., Mandaluyong City",NATIONAL CENTER FOR MENTAL HEALTH,Government,DOH RETAINED,Specialty,Level 3,4200,85319001,mcc@ncmh.gov.ph,1/1/2025,12/31/2025
+,375,NCR,Metro Manila,Manila,"Lope De Vega St., Sta. Cruz, Manila",DR. JOSE FABELLA MEMORIAL HOSPITAL,Government,DOH RETAINED,Specialty,Level 3,700,9175259952,fabella_mcc@yahoo.com,1/1/2025,12/31/2025
+,376,NCR,Metro Manila,Manila,"8001 Delpan St., Tondo, Manila",GAT ANDRES BONIFACIO MEDICAL CENTER,Government,LGU,General,Level 1,150,82438845,gatandresbonifaciommc@ymail.com,1/1/2025,12/31/2025
+,377,NCR,Metro Manila,Manila,"San Lazaro Compound, Rizal Avenue, Sta. Cruz, Manila",JOSE R. REYES MEMORIAL MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,450,8711-94-91,ccu@jrrmmc.gov.ph,1/1/2025,12/31/2025
+,378,NCR,Metro Manila,Manila,"Numancia St., Binondo, Manila",JUSTICE JOSE ABAD SANTOS GENERAL HOSPITAL,Government,LGU,General,Level 1,150,8254-2453,justicejasgen.official@yahoo.com,1/1/2025,12/31/2025
+,379,NCR,Metro Manila,Manila,"Pres. Quirino Ave. Cor. Roxas Blvd., Manila",OSPITAL NG MAYNILA MEDICAL CENTER,Government,LGU,General,Level 3,300,884-67629,ospitalngmaynilamedicalcenter@yahoo.com,1/1/2025,12/31/2025
+,380,NCR,Metro Manila,Manila,"677 Geronimo St. cor. Carola St., Sampaloc, Manila",OSPITAL NG SAMPALOC,Government,LGU,General,Level 1,50,(02)87813001,osam@manila.gov.ph,1/1/2025,12/31/2025
+,381,NCR,Metro Manila,Manila,"Jose Abad Santos Ave., Tondo, Manila",OSPITAL NG TONDO,Government,LGU,General,Level 1,50,82523942/86829918,oston@manila.gov.ph,1/1/2025,12/31/2025
+,382,NCR,Metro Manila,Manila,"Quiricada St., Sta. Cruz, Manila",SAN LAZARO HOSPITAL,Government,DOH RETAINED,Specialty,Level 3,363,02) 5309-9523 (02) 5309-9613-(02) 5309-9935 (02) 5309-9527-(02) 5309-9893 (02) 5309-9938-(02) 5309-9541 (02) 5309-9895-(02) 5309-9608 (02) 5309-9899,sanlazarohospital@yahoo.com,1/1/2025,12/31/2025
+,383,NCR,Metro Manila,Manila,"2629 New Panaderos St., Brgy. 886, Sta. Ana, Manila",STA. ANA HOSPITAL,Government,LGU,General,Level 3,300,,,1/1/2025,12/31/2025
+,384,NCR,Metro Manila,Manila,"Honorio Lopez Boulevard., Balut, Tondo, Manila",TONDO MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,300,9209257431,tmcmcc2015@yahoo.com,1/1/2025,12/31/2025
+,385,NCR,Metro Manila,Manila,"Taft Avenue, Ermita, Manila",UP-PHILIPPINE GENERAL HOSPITAL,Government,UNIVERSITY/SCHOOL,General,Level 3,1334,(02) 8554 8400,pocoladilla@up.edu.ph,1/1/2025,12/31/2025
+,386,NCR,Metro Manila,Marikina City,"Sumulong Hi-Way, Brgy. Sto. Niño, Marikina City",AMANG RODRIGUEZ MEMORIAL MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,300,(02) 8948 0595,armmc_erc2012@yahoo.com,1/1/2025,12/31/2025
+,387,NCR,Metro Manila,Muntinlupa City,"Civic Drive, Filinvest Corporate City, Alabang, Muntinlupa City",OSPITAL NG MUNTINLUPA,Government,LGU,General,Level 3,206,9156801596,safety.osmun@gmail.com,1/1/2025,12/31/2025
+,388,NCR,Metro Manila,Muntinlupa City,"Filinvest Corporate City, Alabang, Muntinlupa City",RESEARCH INSTITUTE FOR TROPICAL MEDICINE,Government,DOH RETAINED,Specialty,Level 3,50,88072631,do@ritm.gov.ph / director.ritmdoh@gmail.com,1/1/2025,12/31/2025
+,389,NCR,Metro Manila,Navotas City,"M. Naval St., Brgy. San Jose, Navotas City",NAVOTAS CITY HOSPITAL,Government,LGU,General,Level 1,50,8866-7520,navotascityhospital@gmail.com,1/1/2025,12/31/2025
+,390,NCR,Metro Manila,Parañaque City,"440 Quirino Ave., La Huerta, Parañaque City",OSPITAL NG PARAÑAQUE,Government,LGU,General,Level 1,83,8580-7350/8825-4902,ospar.adm100880@gmail.com,1/1/2025,12/31/2025
+,391,NCR,Metro Manila,Parañaque City,"187 Taiwan St., Extension Corner Doña Soledad Avenue, Don Bosco, Parañaque City",OSPITAL NG PARAÑAQUE DISTRICT II,Government,LGU,General,Level 1,70,8234-5459,mdao080122@gmail.com,1/1/2025,12/31/2025
+,392,NCR,Metro Manila,Pasay City,"Colonel Jesus Villamor Air Base, Pasay City",AIR FORCE GENERAL HOSPITAL,Government,DND,General,Level 2,100,854-0701 loc. 4611,afghopns@yahoo.com,1/1/2025,12/31/2025
+,393,NCR,Metro Manila,Pasay City,"P. Burgos St., Pasay City",PASAY CITY GENERAL HOSPITAL,Government,LGU,General,Level 3,150,288336022,pasaygenmss@gmail.com,1/1/2025,12/31/2025
+,394,NCR,Metro Manila,Pasay City,"Pasig Boulevard, Bagong Ilog, Pasig City",RIZAL MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,300,8865-8400,directorsoffice@rmc.doh.gov.ph / mariarica.lumague@rmc.doh.gov.ph,1/1/2025,12/31/2025
+,395,NCR,Metro Manila,Pasig City,"Industrial St., cor. Alcalde Jose St., Kapasigan, Pasig City",PASIG CITY CHILDREN'S HOSPITAL - CHILD'S HOPE,Government,LGU,Specialty,Level 2,64,8643-2222,childshope.medofc@gmail.com,1/1/2025,12/31/2025
+,396,NCR,Metro Manila,Pasig City,"M. Eusebio Avenue, Maybunga, Pasig City",PASIG CITY GENERAL HOSPITAL,Government,LGU,General,Level 3,200,8643-3333,pasigcitygen@yahoo.com.ph,1/1/2025,12/31/2025
+,397,NCR,Metro Manila,Quezon,"#264 E. Rodriguez Sr. Boulevard, Quezon City",NATIONAL CHILDREN’S HOSPITAL,Government,DOH RETAINED,Specialty,Level 3,250,87240656,mcc@nhc.doh.gov.ph,1/1/2025,12/31/2025
+,398,NCR,Metro Manila,Quezon,"Quezon Avenue Corner Agham Road, Diliman, Quezon City",PHILIPPINE CHILDREN’S MEDICAL CENTER,Government,GOCC,Specialty,Level 3,200,8588-9900,officeofthedirector@pcmc.gov.ph,1/1/2025,12/31/2025
+,399,NCR,Metro Manila,Quezon City,"East Avenue, Quezon City",EAST AVENUE MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,1000,8928-0611,globachini65@gmail.com,1/1/2025,12/31/2025
+,400,NCR,Metro Manila,Quezon City,"Quezon Avenue, Quezon City",LUNG CENTER OF THE PHILIPPINES,Government,GOCC,Specialty,Level 3,237,0924 6101,patientbusiness.lcp.gov.ph,1/1/2025,12/31/2025
+,401,NCR,Metro Manila,Quezon City,"East Avenue, Diliman, Quezon City",NATIONAL KIDNEY AND TRANSPLANT INSTITUTE,Government,GOCC,Specialty,Level 3,315,8981 0300,,1/1/2025,12/31/2025
+,402,NCR,Metro Manila,Quezon City,"Quirino Highway, San Bartolome, Novaliches, Quezon City",NOVALICHES DISTRICT HOSPITAL,Government,LGU,General,Level 1,30,89310312,NDH@quezoncity.gov.ph,1/1/2025,12/31/2025
+,403,NCR,Metro Manila,Quezon City,"East Avenue, Diliman, Quezon City",PHILIPPINE HEART CENTER,Government,GOCC,Specialty,Level 3,574,8925-2401,inquiry@phc.gov.ph,1/1/2025,12/31/2025
+,404,NCR,Metro Manila,Quezon City,"Ma. Clara St. Cor. Banawe St., Quezon City",PHILIPPINE ORTHOPEDIC CENTER,Government,DOH RETAINED,Specialty,Level 3,700,8711-4276,poc_training@yahoo.com,1/1/2025,12/31/2025
+,405,NCR,Metro Manila,Quezon City,"Camp Crame, Quezon City",PNP GENERAL HOSPITAL,Government,PNP,General,Level 2,176,723-0401 loc 6808/09939504239,pnpghpos3947@gmail.com,1/1/2025,12/31/2025
+,406,NCR,Metro Manila,Quezon City,"Seminary Road, Edsa, Quezon City",QUEZON CITY GENERAL HOSPITAL,Government,LGU,General,Level 3,250,(02) 8863 0800,,1/1/2025,12/31/2025
+,407,NCR,Metro Manila,Quezon City,"Katipunan Road, Project 4, Quezon City",QUIRINO MEMORIAL MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,599,53049800,orthopedicsqmmc@gmail.com,1/1/2025,12/31/2025
+,408,NCR,Metro Manila,Quezon City,"IBP Road, Batasan Hills, District 2, Quezon City",ROSARIO MACLANG BAUTISTA GENERAL HOSPITAL,Government,LGU,General,Level 2,107,88352560 / 09778199910,RMBGH@QUEZONCITY.GOV.PH,1/1/2025,12/31/2025
+,409,NCR,Metro Manila,Quezon City,"North Avenue, Diliman, Quezon City",VETERANS MEMORIAL MEDICAL CENTER,Government,DND,General,Level 3,766,(02) 8927 6426,,1/1/2025,12/31/2025
+,410,NCR,Metro Manila,Quezon City,"V. Luna Road, Quezon City",VICTORIANO LUNA MEDICAL CENTER,Government,AFP,General,Level 3,1200,8246-2111,orthoafpmc@gmail.com,1/1/2025,12/31/2025
+,411,NCR,Metro Manila,San Juan City,"71 N. Domingo St. Balong-Bato, San Juan City",SAN JUAN MEDICAL CENTER,Government,LGU,General,Level 2,150,8725-3765,sanjuanmedicalcenter@yahoo.com,1/1/2025,12/31/2025
+,412,NCR,Metro Manila,Taguig City,"Fort Andres Bonifacio, Taguig City",ARMY GENERAL HOSPITAL,Government,DND,General,Level 1,200,8845-9555 loc 4603,aghoperations3@gmail.com,1/1/2025,12/31/2025
+,413,NCR,Metro Manila,Taguig City,"Naval Station Jose Francisco, Fort Bonifacio, Taguig City",MANILA NAVAL HOSPITAL,Government,DND,General,Level 1,65,8892-8261,mnhoperations.h3@gmail.com,1/1/2025,12/31/2025
+,414,NCR,Metro Manila,Taguig City,"East Service road, Western Bicutan, Taguig City",TAGUIG-PATEROS DISTRICT HOSPITAL,Government,LGU,General,Level 1,110,8838-3485,tpdh@taguig.gov.ph,1/1/2025,12/31/2025
+,415,NCR,Metro Manila,Valenzuela City,"Padrigal St., Karuhatan, Valenzuela City",VALENZUELA MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,150,(02) 8294 6711,vmc_himd@yahoo.com,1/1/2025,12/31/2025
+,416,NIR,Negros Occidental,Bacolod City,"Burgos- Lacson Sts., Bacolod City, Negros Occidental",CORAZON LOCSIN MONTELIBANO MEMORIAL REGIONAL HOSPITAL,Government,DOH RETAINED,General,Level 3,400,(034) 703-1350,mcco@clmmrh.doh.gov.ph,1/1/2025,12/31/2025
+,417,NIR,Negros Occidental,Bago City,"Rafael M. Salas Drive, Brgy. Balingasag",BAGO CITY HOSPITAL,Government,LGU,General,Level 1,50,034-461-0552,hospitalbagocity@yahoo.com,1/1/2025,12/31/2025
+,418,NIR,Negros Occidental,Cadiz City,"Hda. Hortencia, Brgy. Daga",CADIZ DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,034-213-0239,cdh.eedd@gmail.com,1/1/2025,12/31/2025
+,419,NIR,Negros Occidental,City of Silay,"Rizal St., Brgy. Lantad",TERESITA L. JALANDONI PROVINCIAL HOSPITAL,Government,LGU,General,Level 2,206,034-495-1736,tljph_silay@yahoo.com,1/1/2025,12/31/2025
+,420,NIR,Negros Occidental,Escalante City,"Sitio Bug-as, Brgy. Balintawak",VICENTE GUSTILO DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,034-2130231,pnovgus@gmail.com,1/1/2025,12/31/2025
+,421,NIR,Negros Occidental,Himamaylan City,Brgy. IV,GOV. VALERIANO M. GATUSLAO MEMORIAL HOSPITAL,Government,LGU,General,Level 1,75,034-388-3594,vgathospital@yahoo.com,1/1/2025,12/31/2025
+,422,NIR,Negros Occidental,Kabankalan City,Brgy. Tabugon,KABANKALAN CITY HOSPITAL,Government,LGU,General,Level 1,20,034-701-4620,kch_tabugon@yahoo.com,1/1/2025,12/31/2025
+,423,NIR,Negros Occidental,Kabankalan City,"Sitio Mohon, Brgy. 1",LORENZO D. ZAYCO DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,034-471-3635,lorenzoheals@gmail.com,1/1/2025,12/31/2025
+,424,NIR,Negros Occidental,La Carlota City,"Gurrea Street, Brgy. Batuan",DON SALVADOR BENEDICTO MEMORIAL DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,034-460-3360,dsbh40@yahoo.com,1/1/2025,12/31/2025
+,425,NIR,Negros Occidental,Sagay City,"A.E. Marañon Street, Brgy. Poblacion 2",ALFREDO E. MARAÑON SR. MEMORIAL DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,034-722-0146,aemsmdh@gmail.com,1/1/2025,12/31/2025
+,426,NIR,Negros Occidental,San Carlos City,"Hda. Sta. Ana Road, Brgy. Palampas",SAN CARLOS CITY HOSPITAL,Government,LGU,General,Level 1,100,034-729-6111,scchospital@yahoo.com,1/1/2025,12/31/2025
+,427,NIR,Negros Occidental,Valladolid,Crossing Brgy. Tabao,VALLADOLID DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,034-461-0360,vdh_eedd2012@yahoo.com,1/1/2025,12/31/2025
+,428,NIR,Negros Oriental,Bais City,"Juan Luna St., Brgy. 1, Bais City, Negros Oriental",BAIS DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,(035)402-8317 / (035) 402-3194,baisdistricthospital@yahoo.com,1/1/2025,12/31/2025
+,429,NIR,Negros Oriental,Bayawan City,"Zamora St., Ubos, Bayawan City, Negros Oriental",BAYAWAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,50,(035) 430-0155-56; 0977-842-4788,bdh_stabayabas@yahoo.com,1/1/2025,12/31/2025
+,430,NIR,Negros Oriental,Dumaguete City,"North Rd., National Highway, Piapi, Dumaguete City, Negros Oriental",NEGROS ORIENTAL PROVINCIAL HOSPITAL,Government,LGU,General,Level 2,250,(035) 226-2703,joycemaningo@yahoo.com; badonrovien@gmail.com; negor.provincialhospital@gmail.com,1/1/2025,12/31/2025
+,431,NIR,Negros Oriental,Guihulngan City,"Cadre, Poblacion, Guihulngan City, Negros Oriental",GOV. WILLIAM (BILLY) VILLEGAS MEMORIAL HOSPITAL,Government,LGU,General,Level 1,50,0936-047-1891,gwilliamvillegas_memhosp@yahoo.com,1/1/2025,12/31/2025
+,432,NIR,Siquijor,Siquijor,"Caipilan, Siquijor, Siquijor",SIQUIJOR PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,75,(035) 344-2012; 480-9242; 0953-110-4069,siquijor.hospital@yahoo.com,1/1/2025,12/31/2025
+,433,CORDILLERA,Abra,Bangued,Brgy. Calaba,ABRA PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,50,,pholicensing.pga@gmail.com,1/1/2025,12/31/2025
+,434,CORDILLERA,Apayao,Conner,Ripang,CONNER DISTRICT HOSPITAL,Government,DOH RETAINED,General,Level 2,100,9069528092,connerdistricthospital@yahoo.com,1/1/2025,12/31/2025
+,435,CORDILLERA,Apayao,Luna,Quirino,FAR NORTH LUZON GENERAL HOSPITAL AND TRAINING CENTER,Government,DOH RETAINED,General,Level 2,200,9164466509,fnlghtc@yahoo.com.ph,1/1/2025,12/31/2025
+,436,CORDILLERA,Benguet,Atok,Paoay,ATOK DISTRICT HOSPITAL,Government,LGU,General,Level 1,15,9209507875,benguet_adh@yahoo.com,1/1/2025,12/31/2025
+,437,CORDILLERA,Benguet,Baguio City,Bghmc Compound,BAGUIO GENERAL HOSPITAL AND MEDICAL CENTER,Government,DOH RETAINED,General,Level 3,600,074-442-4216 loc.219/212,molecularlab@bghmc.doh.gov.ph,1/1/2025,12/31/2025
+,438,CORDILLERA,Benguet,Bokod,Daclan,DENNIS MOLINTAS DISTRICT HOSPITAL,Government,LGU,General,Level 1,10,09462366462/09267498380,dmmhbenguet@gmail.com,1/1/2025,12/31/2025
+,439,CORDILLERA,Benguet,Buguias,Bekes,NORTHERN BENGUET DISTRICT HOSPITAL,Government,LGU,General,Level 1,15,9304559926,aehbuguias@gmail.com,1/1/2025,12/31/2025
+,440,CORDILLERA,Benguet,La Trinidad,Betag,BENGUET GENERAL HOSPITAL,Government,LGU,General,Level 2,150,,beghadmin@benguet.gov.ph,1/1/2025,12/31/2025
+,441,CORDILLERA,Ifugao,Alfonso Lista,Sta. Maria,POTIA DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,9175741414,potiadistrict0620@gmail.com,1/1/2025,12/31/2025
+,442,CORDILLERA,Ifugao,Lagawe,"Lumingay Road, Poblacion North",IFUGAO GENERAL HOSPITAL,Government,LGU,General,Level 1,45,,ifugaogh2023@gmail.com,1/1/2025,12/31/2025
+,443,CORDILLERA,Ifugao,Lamut,"Bannit St., Mabato-Bato",PANOPDOPAN DISTRICT HOSPITAL,Government,LGU,General,Level 1,25,9670039261,panopdistricthosp@gmail.com,1/1/2025,12/31/2025
+,444,CORDILLERA,Kalinga,Tabuk City,Bulanao,KALINGA PROVINCIAL HOSPITAL,Government,LGU,General,Level 1,100,9108489889,kphkalinga.gov@gmail.com,1/1/2025,12/31/2025
+,445,CORDILLERA,Mountain Province,Bauko,Abatan,LUIS HORA MEMORIAL REGIONAL HOSPITAL,Government,DOH RETAINED,General,Level 2,200,09293019551 / 09308624883,lhmrh_doh@yahoo.com,1/1/2025,12/31/2025
+,446,CORDILLERA,Mountain Province,Besao,Kin-Iway,BESAO DISTRICT HOSPITAL,Government,LGU,General,Level 1,17,9509568300,bedh_besao@yahoo.com,1/1/2025,12/31/2025
+,447,CORDILLERA,Mountain Province,Bontoc,Upper Caluttit,BONTOC GENERAL HOSPITAL,Government,LGU,General,Level 1,100,9984648544,bontocgeneralhospital@gmail.com,1/1/2025,12/31/2025
+,448,CORDILLERA,Mountain Province,Paracelis,Poblacion,PARACELIS DISTRICT HOSPITAL,Government,LGU,General,Level 1,17,9209604047,paracelisdistricthospital@gmail.com,1/1/2025,12/31/2025
+,449,BARMM,Basilan,Lamitan City,Brgy. Limook,LAMITAN DISTRICT HOSPITAL (EDIBORAH P. YAP MEMORIAL HOSPITAL),Government,MOH BARMM,General,Level 1,25,0915-157-2349,epymhldh1976@gmail.com,1/1/2025,12/31/2025
+,450,BARMM,Lanao del Sur,Balindong,Salipongan,BALINDONG MUNICIPAL HOSPITAL,Government,MOH BARMM,General,Level 1,25,0917-327-0773,balindongmunicipalhospital@yahoo.com,1/1/2025,12/31/2025
+,451,BARMM,Lanao del Sur,Binidayan,Brgy. Pagalamatan,UNAYAN MUNICIPAL HOSPITAL,Government,MOH BARMM,General,Level 1,25,"0997-716-2791
+0919-097-8304",unayanmunicipalhospital@gmail.com,1/1/2025,12/31/2025
+,452,BARMM,Lanao del Sur,Malabang,basilam,"DR. SERAPIO B. MONTANER JR., AL HAJJ MEMORIAL HOSPITAL",Government,MOH BARMM,General,Level 1,150,0917-513-9979,dsbmmh1121@gmail.com,1/1/2025,12/31/2025
+,453,BARMM,Lanao del Sur,Tamparan,Brgy. Picarabawan,TAMPARAN DISTRICT HOSPITAL,Government,MOH BARMM,General,Level 1,100,0917-774-1841,tamparandistricthospital@gmail.com,1/1/2025,12/31/2025
+,454,BARMM,Lanao del Sur,Wao,Western Wao,WAO DISTRICT HOSPITAL,Government,MOH BARMM,General,Level 1,25,0977-836-8176,waodhcare@gmail.com,1/1/2025,12/31/2025
+,455,BARMM,Maguindanao,Ampatuan,"Brgy. Limpongo, Datu Hoffer, Maguindanao",MAGUINDANAO PROVINCIAL HOSPITAL,Government,MOH BARMM,General,Level 2,299,0936742877//09171551280,iphomaguindanao.mph@gmail.com,1/1/2025,12/31/2025
+,456,BARMM,Maguindanao del Norte,Datu Blah T. Sinsuat,Brgy. Nuro,DATU BLAH T. SINSUAT DISTRICT HOSPITAL,Government,MOH BARMM,General,Level 1,25,0917-621-9571,datublah@gmail.com,1/1/2025,12/31/2025
+,457,BARMM,Maguindanao del Norte,Datu Odin Sinsuat,Brgy. Awang,CAMP SIONGCO STATION HOSPITAL,Government,DND,General,Level 1,50,0916-267-4817,cssh_sixid@yahoo.com,1/1/2025,12/31/2025
+,458,BARMM,Maguindanao del Norte,Datu Odin Sinsuat,Dalican,DATU ODIN SINSUAT DISTRICT HOSPITAL,Government,MOH BARMM,General,Level 1,50,0917-622-3894,dinaigmunhospital@gmail.com,1/1/2025,12/31/2025
+,459,BARMM,Maguindao del Sur,Buluan,Poblacion,BULUAN DISTRICT HOSPITAL,Government,MOH BARMM,General,Level 1,100,0918-942-0136,buluandistricthospital@yahoo.com,1/1/2025,12/31/2025
+,460,BARMM,Maguindanao del Norte,Parang,"Notre Dame Site, Brgy. Poblacion 1",IRANON DISTRICT HOSPITAL,Government,MOH BARMM,General,Level 1,25,0997-112-6205,idh.barmm@gmail.com,11/7/2025,12/31/2025
+,461,BARMM,Maguindao del Sur,South UPI,Brgy. Romangaob,SOUTH UPI MUNICIPAL HOSPITAL,Government,MOH BARMM,General,Level 1,25,0956-052-0050,southupihospital.phic@gmail.com,1/1/2025,12/31/2025
+,462,BARMM,Sulu,Luuk,Tubig Putih,LUUK DISTRICT HOSPITAL,Government,MOH BARMM,General,Level 1,25,0915-914-9311,luukdistricthospital@gmail.com,1/1/2025,12/31/2025
+,463,BARMM,Sulu,Maimbung,Brgy. Laum,MAIMBUNG DISTRICT HOSPITAL,Government,MOH BARMM,General,Level 1,50,0917-300-7967,maimbungdh@gmail.com,1/1/2025,12/31/2025
+,464,BARMM,Sulu,Parang,Brgy. Kanaway,PARANG DISTRICT HOSPITAL,Government,MOH BARMM,General,Level 1,25,0917-505-9987,pdhnagmamahal@gmail.com,1/1/2025,12/31/2025
+,465,BARMM,Tawi-Tawi,Bongao,Brgy. Lamion,DATU HALUN SAKILAN MEMORIAL HOSPITAL,Government,MOH BARMM,General,Level 1,50,0917-374-7358,iphotawitawi@gmail.com,1/1/2025,12/31/2025
