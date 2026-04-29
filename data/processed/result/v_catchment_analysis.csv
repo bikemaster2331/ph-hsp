@@ -1,0 +1,18 @@
+"municipality","population","nearest_hospital","hospital_municipality","hospital_level","ownership","travel_time_min","beds_per_1000","bed_surplus_deficit","crude_death_rate","risk_score_pct","intervention_type","priority_rank","land_play"
+Gigmoto,8348,VDH,Viga,1,Government,78,0.51,-25,,72.7,GREENFIELD,1,Buy land in Gigmoto — new facility will be built here
+Caramoran,30124,JMAM,San Andres,1,Government,51,0.37,-43,,72.7,EXPANSION,1,Buy land in San Andres near JMAM — hospital grows outward
+Panganiban,8947,VDH,Viga,1,Government,15,0.51,-25,18.81,63.6,UPGRADE,3,Buy land in Viga near VDH — upgrade attracts clinics and pharmacy
+Viga,21364,VDH,Viga,1,Government,17,0.51,-25,,54.5,UPGRADE,4,Buy land in Viga near VDH — upgrade attracts clinics and pharmacy
+Bagamanoc,10403,VDH,Viga,1,Government,17,0.51,-25,,54.5,UPGRADE,4,Buy land in Viga near VDH — upgrade attracts clinics and pharmacy
+San Andres,37157,JMAM,San Andres,1,Government,15,0.37,-43,1.27,45.5,EXPANSION,6,Buy land in San Andres near JMAM — hospital grows outward
+San Miguel,14578,IHMH,Virac,2,Private,32,1.00,0,,36.4,PRIVATE ENTRY,7,Buy commercial lot in San Miguel — population can support a private clinic
+Pandan,20796,PDH,Pandan,1,Government,6,1.20,4,,36.4,MONITOR,7,Watch and wait
+Baras,12992,EBMC,Virac,2,Government,64,6.47,71,,36.4,TRANSPORT,7,"No land play — road or ambulance problem, not hospital supply"
+Bato,21325,IHMH,Virac,2,Private,21,1.00,0,,27.3,PRIVATE ENTRY,10,Buy commercial lot in Bato — population can support a private clinic
+Virac,75135,CDHI,Virac,2,Private,15,0.80,-16,,27.3,PRIVATE ENTRY,10,Buy commercial lot in Virac — population can support a private clinic
+JMAM,San Andres,1,Government,2,"Caramoran, San Andres",67281,25,0.3716,-43,51
+VDH,Viga,1,Government,4,"Bagamanoc, Gigmoto, Panganiban, Viga",49062,25,0.5096,-25,78
+CDHI,Virac,2,Private,1,Virac,75135,60,0.7986,-16,15
+IHMH,Virac,2,Private,2,"Bato, San Miguel",35903,36,1.0027,0,32
+PDH,Pandan,1,Government,1,Pandan,20796,25,1.2022,4,6
+EBMC,Virac,2,Government,1,Baras,12992,84,6.4655,71,64
